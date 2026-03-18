@@ -1,0 +1,97 @@
+[
+  {
+    "Rezeptname": "Thunfisch-Hüttenkäse-Aufstrich auf Brot",
+    "Zubereitung": "Thunfisch abtropfen lassen und mit Hüttenkäse vermischen. Eingelegte Tomaten in kleine Stücke schneiden und untermischen. Mischung mit Salz, Pfeffer und frischem Basilikum abschmecken. Aufgeschnittenes Vollkornbrot mit der Thunfisch-Hüttenkäse-Creme bestreichen und servieren.",
+    "Kalorien": 420,
+    "Fett": 14,
+    "Kohlenhydrate": 35,
+    "Proteine": 38,
+    "Zutaten und Mengen": {
+      "Thunfisch": "120 g",
+      "Körniger Frischkäse": "100 g",
+      "Tomaten (eingelegt)": "50 g",
+      "Vollkornbrot": "2 Scheiben"
+    }
+  },
+  {
+    "Rezeptname": "Griechischer Joghurt mit Walnüssen und Honig",
+    "Zubereitung": "Griechischen Joghurt in eine Schale geben, Walnüsse grob hacken und darüberstreuen. Mit etwas Honig beträufeln. Beeren hinzugeben.",
+    "Kalorien": 400,
+    "Fett": 16,
+    "Kohlenhydrate": 30,
+    "Proteine": 28,
+    "Zutaten und Mengen": {
+      "Griechischer Joghurt": "2 EL",
+      "Walnüsse": "25 g",
+      "Honig": "1 TL",
+      "Beeren (TK)": "50 g"
+    }
+  },
+  {
+    "Rezeptname": "Salat mit roten Linsen, Gurke, Tomaten und Feta",
+    "Zubereitung": "Rote Linsen nach Packungsanleitung ca. 5-7 Minuten kochen, abgießen und abkühlen lassen. Gurke und Tomaten in kleine Würfel schneiden. Feta würfeln. Alle Zutaten in einer Schüssel vermengen. Mit Olivenöl, Zitronensaft, Salz, Pfeffer und frischen Kräutern (z.B. Petersilie) abschmecken.",
+    "Kalorien": 450,
+    "Fett": 20,
+    "Kohlenhydrate": 35,
+    "Proteine": 28,
+    "Zutaten und Mengen": {
+      "Rote Linsen": "100 g",
+      "Gurke": "100 g",
+      "Tomaten": "100 g",
+      "Feta": "100 g",
+      "Zitronensaft": "1 EL"
+    }
+  },
+  {
+    "Rezeptname": "Trockenfrüchte und Nüsse",
+    "Zubereitung": "Trockenfrüchte und Nüsse mixen.",
+    "Kalorien": 400,
+    "Fett": 15,
+    "Kohlenhydrate": 50,
+    "Proteine": 10,
+    "Zutaten und Mengen": {
+      "Datteln": "50 g",
+      "Cashews": "40 g"
+    }
+  },
+  {
+    "Rezeptname": "Hüttenkäse mit Gurke und Tomaten",
+    "Zubereitung": "Hüttenkäse mit Gurke und Tomaten vermischen.",
+    "Kalorien": 350,
+    "Fett": 10,
+    "Kohlenhydrate": 20,
+    "Proteine": 30,
+    "Zutaten und Mengen": {
+      "Körniger Frischkäse": "150 g",
+      "Gurke": "50 g",
+      "Tomaten": "50 g"
+    }
+  },
+  {
+    "Rezeptname": "Vollkornbrot mit Erdnussmus und Banane",
+    "Zubereitung": "Vollkornbrot mit Erdnussmus bestreichen und mit Banane vervollständigen.",
+    "Kalorien": 475,
+    "Fett": 17,
+    "Kohlenhydrate": 65,
+    "Proteine": 16,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Erdnussmus": "30 g",
+      "Bananen": "1 Stk"
+    }
+  },
+  {
+  "Rezeptname": "Edamame mit Sesam und Sojasoße",
+  "Zubereitung": "Tiefgekühlte Edamame (in der Schale oder geschält) in kochendem Salzwasser 4–5 Minuten kochen. Abgießen und kurz abkühlen lassen. Mit Sojasoße beträufeln und gerösteten Sesam darüber streuen. Optional etwas Sesamöl hinzufügen.",
+  "Kalorien": 380,
+  "Fett": 14,
+  "Kohlenhydrate": 24,
+  "Proteine": 29,
+  "Zutaten und Mengen": {
+    "Edamame (TK)": "200 g",
+    "Sojasauce": "1 EL",
+    "Sesam": "10 g",
+    "Sesamöl": "1 TL"
+    }
+  }
+]

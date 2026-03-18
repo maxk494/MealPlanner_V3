@@ -1,0 +1,19 @@
+{
+  "Backwaren": ["Vollkornbrot", "Wrap", "Reiswaffel", "Fladenbrot"],
+  "Fisch": ["Lachs", "Räuchermakrele", "Räucherlachs"],
+  "Fleisch": ["Hähnchenbrust", "Speck"],
+  "Fleischersatz": ["Tofu", "Tempeh", "Falafel", "Haloumi"],
+  "Reis & Hülsenfrüchte": ["Quinoa", "Couscous", "Vollkornnudeln", "Vollkornreis", "Rote Linsen", "Belugalinsen", "Reisbandnudeln", "Brauner Zucker", "Mehl", "Backpulver", "Sesam", "Bulgur", "Rote-Linsen Nudeln", "Buchweizen", "Soba-Nudeln"],
+  "Konserven": ["Thunfisch", "Kichererbsen", "Kidneybohnen", "Weiße Bohnen", "Mais", "Tomaten (stückig)", "Tomaten (eingelegt)", "Tomatenmark", "Kokosmilch", "Sojasprossen", "Rote Bete", "Sardinen", "Kapern"],
+  "Milchprodukte & Käse": ["Mandelmilch", "Magerquark", "Feta", "Eier", "Körniger Frischkäse", "Griechischer Joghurt", "Skyr", "Milch", "Butter", "Creme fraiche", "Parmesan", "Sour Cream", "Streukäse", "Meerrettich"],
+  "Aufstriche": ["Erdnussmus", "Mandelmus", "Honig", "Hummus"],
+  "Müsli & Nüsse": ["Haferflocken", "Walnüsse", "Nussmix", "Erdnüsse", "Cranberries", "Cashews", "Pinienkerne", "Chiasamen", "Kürbiskerne"],
+  "Öle & Würzmittel": ["Sesamöl", "Sojasauce", "Zimt", "Kokosöl", "Rote Currypaste", "Gemüsebrühe", "Zitronensaft", "Limettensaft", "Ajvar", "Tamarindenpaste", "Muskatnuss", "Tahini", "Balsamico", "Senf", "Pesto"],
+  "Obst & Gemüse": [
+    "Avocado", "Spinat", "Brokkoli", "Zucchini", "Paprika", 
+    "Möhren", "Rote Bete", "Aubergine", "Süßkartoffel", 
+    "Rucola", "Tomaten", "Zwiebel", "Knoblauch", "Oliven", 
+    "Apfel", "Bananen", "Gurke", "Frühlingszwiebeln", "Minze", "Rosenkohl", "Kartoffel", "Salat", "Blattspinat", "Zuckerschoten", "Datteln", "Suppengrün", "Lauch", "Kräuterseitlinge", "Champignons", "Feldsalat", "Granatapfelkerne", "Feigen"],
+  "Tiefkühlprodukte": ["Spinat (TK)", "Beeren (TK)", "Erbsen (TK)", "Grünkohl (TK)", "Edamame (TK)", "Blattspinat (TK)"],
+  "Sonstiges": ["Proteinpulver"]
+}

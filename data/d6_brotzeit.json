@@ -1,0 +1,91 @@
+[
+  {
+    "Rezeptname": "Brot mit Lachs und Avocado",
+    "Zubereitung": "Avocado halbieren, Kern entfernen und Fruchtfleisch mit einer Gabel zu einer cremigen Masse zerdrücken. Mit Zitronensaft abschmecken. Vollkornbrot toasten (2–3 Min.). Avocadomasse gleichmäßig auf beiden Scheiben verteilen. Räucherlachs darauflegen. Rote Zwiebel in dünne Ringe schneiden und darüber verteilen. Mit etwas frisch gemahlenem Pfeffer abschließen.",
+    "Kalorien": 540,
+    "Fett": 28,
+    "Kohlenhydrate": 38,
+    "Proteine": 31,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Räucherlachs": "100 g",
+      "Avocado": "1 Stk",
+      "Zwiebel": "1 Stk",
+      "Zitronensaft": "1 EL"
+    }
+  },
+  {
+    "Rezeptname": "Brot mit Hüttenkäse, Walnüssen und Feige",
+    "Zubereitung": "Vollkornbrot toasten (2–3 Min.). Hüttenkäse gleichmäßig auf beiden Scheiben verteilen. Walnüsse grob hacken. Feige in dünne Scheiben schneiden und auf dem Hüttenkäse anrichten. Walnüsse darüber streuen und mit einem Teelöffel Honig beträufeln.",
+    "Kalorien": 490,
+    "Fett": 22,
+    "Kohlenhydrate": 44,
+    "Proteine": 27,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Körniger Frischkäse": "150 g",
+      "Walnüsse": "25 g",
+      "Feigen": "1 Stk",
+      "Honig": "1 TL"
+    }
+  },
+  {
+    "Rezeptname": "Brot mit Rührei, Spinat und Parmesan",
+    "Zubereitung": "Tiefgekühlten Spinat auftauen und gut ausdrücken. Eier in einer Schüssel verquirlen. Butter in einer Pfanne bei mittlerer Hitze schmelzen (1 Min.), Spinat kurz miterhitzen (2 Min.). Eier zugeben und bei niedriger Hitze unter ständigem Rühren cremig stocken lassen (3–4 Min.). Parmesan unterrühren. Vollkornbrot toasten (2–3 Min.) und Rührei darauf anrichten.",
+    "Kalorien": 560,
+    "Fett": 32,
+    "Kohlenhydrate": 36,
+    "Proteine": 35,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Eier": "3 Stk",
+      "Blattspinat (TK)": "60 g",
+      "Parmesan": "20 g"
+    }
+  },
+  {
+    "Rezeptname": "Brot mit Hummus, Rote Bete und Kürbiskernen",
+    "Zubereitung": "Vollkornbrot toasten (2–3 Min.). Hummus großzügig auf beiden Scheiben verteilen. Rote Bete in dünne Scheiben schneiden und darauflegen. Feta zerbröckeln und darüber verteilen. Kürbiskerne ohne Fett in einer Pfanne rösten (2–3 Min.) und darüber streuen.",
+    "Kalorien": 510,
+    "Fett": 24,
+    "Kohlenhydrate": 52,
+    "Proteine": 20,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Hummus": "1 EL",
+      "Rote Bete": "100 g",
+      "Kürbiskerne": "20 g",
+      "Feta": "30 g"
+      }
+  },
+  {
+    "Rezeptname": "Brot mit Erdnussbutter und Banane",
+    "Zubereitung": "Vollkornbrot toasten (2–3 Min.). Mandelmus gleichmäßig auf beiden Scheiben verteilen. Banane in Scheiben schneiden und darauflegen. Chiasamen gleichmäßig darüber streuen. Mit einem Teelöffel Honig beträufeln.",
+    "Kalorien": 520,
+    "Fett": 26,
+    "Kohlenhydrate": 58,
+    "Proteine": 16,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Mandelmus": "30 g",
+      "Bananen": "1 Stk",
+      "Chiasamen": "10 g",
+      "Honig": "1 TL"
+    }
+  },
+  {
+    "Rezeptname": "Brot mit Hummus, Haloumi und Granatapfel",
+    "Zubereitung": "Haloumi in ca. 5 mm dicke Scheiben schneiden. In einer beschichteten Pfanne ohne Fett bei mittlerer bis hoher Hitze von beiden Seiten goldbraun grillen (je 2–3 Min.). Vollkornbrot toasten (2–3 Min.). Hummus gleichmäßig auf beiden Scheiben verteilen. Haloumi darauflegen. Granatapfelkerne darüber streuen. Mit frischer Minze und einem Spritzer Zitronensaft abschließen.",
+    "Kalorien": 580,
+    "Fett": 30,
+    "Kohlenhydrate": 46,
+    "Proteine": 30,
+    "Zutaten und Mengen": {
+      "Vollkornbrot": "2 Scheiben",
+      "Haloumi": "80 g",
+      "Hummus": "1 EL",
+      "Granatapfelkerne": "40 g",
+      "Zitronensaft": "1 EL"
+    }
+  }
+]

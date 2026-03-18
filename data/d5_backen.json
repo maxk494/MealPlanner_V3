@@ -1,0 +1,68 @@
+[
+  {
+    "Rezeptname": "Protein-Peanutbutter-Riegel",
+    "Zubereitung": "Haferflocken, Proteinpulver und Erdnussbutter verrühren. Mit etwas Milch oder Wasser zu einer festen Masse verarbeiten. In Riegel formen und kalt stellen.",
+    "Kalorien": 210,
+    "Fett": 8,
+    "Kohlenhydrate": 19,
+    "Proteine": 15,
+    "Zutaten und Mengen": {
+      "Haferflocken": "20 g",
+      "Proteinpulver": "20 g",
+      "Erdnussmus": "15 g",
+      "Mandelmilch": "20 ml"
+    }
+  },
+  {
+    "Rezeptname": "Bagels aus Magerquark",
+    "Zubereitung": "Backofen auf 200 Grad Ober-/Unterhitze vorheizen. Magerquark, Mehl, Backpulver und Eier zu einem glatten Teig vermengen. Den Teig in 4 Stücke teilen, rund formen und in der Mitte ein Loch eindrücken, sodass Bagelringe entstehen. Die Oberfläche mit verquirltem Ei bestreichen und mit Sesam bestreuen. Auf ein mit Backpapier belegtes Blech legen und 15–20 Minuten backen, bis sie goldbraun sind. Anschließend auskühlen lassen.",
+    "Kalorien": 860,
+    "Fett": 25,
+    "Kohlenhydrate": 90,
+    "Proteine": 65,
+    "Zutaten und Mengen": {
+      "Magerquark": "250 g",
+      "Mehl": "200 g",
+      "Backpulver": "1 TL",
+      "Eier": "2 Stk",
+      "Sesam": "20 g"
+    }
+  },
+  {
+    "Rezeptname": "Bananenbrot mit Haferflocken",
+    "Zubereitung": "Backofen auf 170 °C Umluft vorheizen. Bananen in einer großen Schüssel mit einer Gabel zerdrücken. Butter hinzufügen und unterrühren, bis eine gleichmäßige Masse entsteht. Eier aufschlagen, mit Ahornsirup verquirlen und in das Bananenmus einrühren. Mehl, Haferflocken, Backpulver, Zimt, Erdnussbutter und eine Prise Salz in einer separaten Schüssel mischen. Diese trockene Mischung nach und nach in das Bananenmus geben und verrühren, bis ein glatter Teig entsteht. Zum Schluss Milch hinzugeben und nochmals gut durchmischen. Eine Kastenform einfetten und bemehlen, den Teig hineingeben und im Ofen 40–45 Minuten backen. Mit der Stäbchenprobe prüfen, ob das Brot gar ist. Nach dem Backen in der Form leicht abkühlen lassen, dann aus der Form nehmen und vollständig auskühlen lassen.",
+    "Kalorien": 1750,
+    "Fett": 60,
+    "Kohlenhydrate": 235,
+    "Proteine": 50,
+    "Zutaten und Mengen": {
+      "Bananen": "3 Stk",
+      "Butter": "70 g",
+      "Eier": "2 Stk",
+      "Honig": "4 TL",
+      "Erdnussmus": "20 g",
+      "Haferflocken": "200 g",
+      "Mehl": "100 g",
+      "Milch": "90 ml",
+      "Backpulver": "2 TL",
+      "Zimt": "1 TL"
+      }
+  },
+  {
+    "Rezeptname": "Granola",
+    "Zubereitung": "Backofen auf 180 °C Ober-/Unterhitze vorheizen und ein Blech mit Backpapier auslegen. Haferflocken, Nüsse, Kürbiskerne, Leinsamen, Cranberries und Zimt in einer großen Schüssel vermengen. Kokosöl mit Honig und Erdnussbutter in einem kleinen Topf bei niedriger Hitze schmelzen lassen, gut umrühren und leicht abkühlen lassen. Die flüssige Mischung über die trockenen Zutaten geben und gründlich vermengen, bis alles gleichmäßig benetzt ist. Die Masse gleichmäßig auf dem Blech verteilen und leicht andrücken. Im Ofen 20 Minuten goldbraun backen, dabei nach 10 Minuten einmal umrühren. Nach dem Backen vollständig auskühlen lassen und in einem luftdichten Behälter aufbewahren.",
+    "Kalorien": 1750,
+    "Fett": 90,
+    "Kohlenhydrate": 170,
+    "Proteine": 45,
+    "Zutaten und Mengen": {
+      "Haferflocken": "300 g",
+      "Nussmix": "50 g",
+      "Cranberries": "30 g",
+      "Kokosöl": "2 EL",
+      "Honig": "1 TL",
+      "Erdnussmus": "20 g",
+      "Zimt": "1 TL"
+    }
+  }
+]
