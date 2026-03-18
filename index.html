@@ -328,6 +328,7 @@ async function init() {
       recipes: loaded[i].sort((a,b) => a.Rezeptname.localeCompare(b.Rezeptname))
     }));
     allRecipes = categories.flatMap(c => c.recipes);
+    dataQuality(allRecipes, mapping);
     renderList();
     updateBadge();
   } catch(e) {
@@ -624,6 +625,40 @@ function showToast(msg) {
   t.textContent = msg;
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 2500);
+}
+
+// ── Data Quality ───────────────────────────────────────
+function dataQuality(recipes, mapping) {
+  const allMappedItems = Object.values(mapping).flat();
+  const unitTracker = {};
+  let warnings = 0;
+
+  recipes.forEach(r => {
+    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, menge]) => {
+      const parts = menge.split(' ');
+      const unit = parts.slice(1).join(' ');
+
+      // Test 1: Zutat im Mapping vorhanden?
+      if (!allMappedItems.includes(zutat)) {
+        console.warn(`[Datenqualität] Zutat nicht im Mapping: "${zutat}" (Rezept: ${r.Rezeptname})`);
+        warnings++;
+      }
+
+      // Test 2: Einheit konsistent?
+      if (unitTracker[zutat] && unitTracker[zutat] !== unit) {
+        console.warn(`[Datenqualität] Inkonsistente Einheit bei "${zutat}": "${unitTracker[zutat]}" vs. "${unit}" (Rezept: ${r.Rezeptname})`);
+        warnings++;
+      } else {
+        unitTracker[zutat] = unit;
+      }
+    });
+  });
+
+  if (warnings === 0) {
+    console.log('[Datenqualität] Alle Prüfungen bestanden ✓');
+  } else {
+    console.warn(`[Datenqualität] ${warnings} Warnung(en) gefunden — siehe oben.`);
+  }
 }
 
 // ── Service Worker ─────────────────────────────────────
