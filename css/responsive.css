@@ -1,0 +1,22 @@
+/* ── Responsive Design ── */
+@media (min-width: 768px) {
+  .list-container { padding: 20px 24px 120px; }
+  .detail-container { padding: 24px 24px 60px; }
+  .shopping-container { padding: 24px 24px 60px; }
+  
+  .macro-grid { grid-template-columns: repeat(4, 1fr); }
+  
+  .fab-bar {
+    max-width: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header { padding: 16px 32px 14px; }
+  .list-container { padding: 24px 32px 120px; }
+  .detail-container { padding: 32px 32px 80px; }
+  .shopping-container { padding: 32px 32px 80px; }
+}

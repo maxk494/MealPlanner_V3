@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+/node_modules/
+
+.env
+venv/
+
+*.xlsx
+*.todo
+*.txt
+!requirements.txt
+*.jpg
+db.sqlite3
+.DS_Store
