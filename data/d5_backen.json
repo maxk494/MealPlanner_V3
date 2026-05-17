@@ -7,10 +7,22 @@
     "Kohlenhydrate": 19,
     "Proteine": 15,
     "Zutaten und Mengen": {
-      "Haferflocken": "20 g",
-      "Proteinpulver": "20 g",
-      "Erdnussmus": "15 g",
-      "Mandelmilch": "20 ml"
+      "Haferflocken": {
+        "menge": 20,
+        "einheit": "g"
+      },
+      "Proteinpulver": {
+        "menge": 20,
+        "einheit": "g"
+      },
+      "Erdnussmus": {
+        "menge": 15,
+        "einheit": "g"
+      },
+      "Mandelmilch": {
+        "menge": 20,
+        "einheit": "ml"
+      }
     }
   },
   {
@@ -21,11 +33,26 @@
     "Kohlenhydrate": 90,
     "Proteine": 65,
     "Zutaten und Mengen": {
-      "Magerquark": "250 g",
-      "Mehl": "200 g",
-      "Backpulver": "1 TL",
-      "Eier": "2 Stk",
-      "Sesam": "20 g"
+      "Magerquark": {
+        "menge": 250,
+        "einheit": "g"
+      },
+      "Mehl": {
+        "menge": 200,
+        "einheit": "g"
+      },
+      "Backpulver": {
+        "menge": 1,
+        "einheit": "TL"
+      },
+      "Eier": {
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      "Sesam": {
+        "menge": 20,
+        "einheit": "g"
+      }
     }
   },
   {
@@ -36,17 +63,47 @@
     "Kohlenhydrate": 235,
     "Proteine": 50,
     "Zutaten und Mengen": {
-      "Bananen": "3 Stk",
-      "Butter": "70 g",
-      "Eier": "2 Stk",
-      "Honig": "4 TL",
-      "Erdnussmus": "20 g",
-      "Haferflocken": "200 g",
-      "Mehl": "100 g",
-      "Milch": "90 ml",
-      "Backpulver": "2 TL",
-      "Zimt": "1 TL"
+      "Bananen": {
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      "Butter": {
+        "menge": 70,
+        "einheit": "g"
+      },
+      "Eier": {
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      "Honig": {
+        "menge": 4,
+        "einheit": "TL"
+      },
+      "Erdnussmus": {
+        "menge": 20,
+        "einheit": "g"
+      },
+      "Haferflocken": {
+        "menge": 200,
+        "einheit": "g"
+      },
+      "Mehl": {
+        "menge": 100,
+        "einheit": "g"
+      },
+      "Milch": {
+        "menge": 90,
+        "einheit": "ml"
+      },
+      "Backpulver": {
+        "menge": 2,
+        "einheit": "TL"
+      },
+      "Zimt": {
+        "menge": 1,
+        "einheit": "TL"
       }
+    }
   },
   {
     "Rezeptname": "Granola",
@@ -56,13 +113,34 @@
     "Kohlenhydrate": 170,
     "Proteine": 45,
     "Zutaten und Mengen": {
-      "Haferflocken": "300 g",
-      "Nussmix": "50 g",
-      "Cranberries": "30 g",
-      "Kokosöl": "2 EL",
-      "Honig": "1 TL",
-      "Erdnussmus": "20 g",
-      "Zimt": "1 TL"
+      "Haferflocken": {
+        "menge": 300,
+        "einheit": "g"
+      },
+      "Nussmix": {
+        "menge": 50,
+        "einheit": "g"
+      },
+      "Cranberries": {
+        "menge": 30,
+        "einheit": "g"
+      },
+      "Kokosöl": {
+        "menge": 2,
+        "einheit": "EL"
+      },
+      "Honig": {
+        "menge": 1,
+        "einheit": "TL"
+      },
+      "Erdnussmus": {
+        "menge": 20,
+        "einheit": "g"
+      },
+      "Zimt": {
+        "menge": 1,
+        "einheit": "TL"
+      }
     }
   }
 ]

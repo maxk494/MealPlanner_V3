@@ -7,7 +7,7 @@ function renderList() {
 
   window.categories.forEach((cat, ci) => {
     const div = document.createElement('div');
-    div.className = 'category open';
+    div.className = 'category';
     div.innerHTML = `
       <div class="category-header" onclick="toggleCategory(this)">
         <span class="category-title">
@@ -94,8 +94,8 @@ function renderDetail() {
 
     <div class="section-title">Zutaten</div>
     <ul class="ingredient-list">
-      ${Object.entries(r['Zutaten und Mengen']).map(([z, m]) =>
-        `<li class="ingredient-row"><span>${z}</span><span class="ingredient-amount">${m}</span></li>`
+      ${Object.entries(r['Zutaten und Mengen']).map(([z, zutatData]) =>
+        `<li class="ingredient-row"><span>${z}</span><span class="ingredient-amount">${zutatData.menge} ${zutatData.einheit}</span></li>`
       ).join('')}
     </ul>
 
@@ -113,10 +113,9 @@ function renderShopping() {
   // Zutaten aggregieren
   const totals = {};
   selectedRecipes.forEach(r => {
-    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, menge]) => {
-      const parts = menge.split(' ');
-      const amount = parseFloat(parts[0]);
-      const unit = parts.slice(1).join(' ');
+    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, zutatData]) => {
+      const amount = zutatData.menge;
+      const unit = zutatData.einheit;
       if (totals[zutat]) {
         totals[zutat].amount += amount * persons;
       } else {

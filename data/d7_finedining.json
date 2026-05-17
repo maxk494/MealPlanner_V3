@@ -7,11 +7,26 @@
     "Kohlenhydrate": 55,
     "Proteine": 48,
     "Zutaten und Mengen": {
-      "Lachs": "200 g",
-      "Süßkartoffel": "300 g",
-      "Blattspinat": "100 g",
-      "Sour Cream": "2 EL",
-      "Zitronensaft": "1 EL"
+      "Lachs": {
+        "menge": 200,
+        "einheit": "g"
+      },
+      "Süßkartoffel": {
+        "menge": 300,
+        "einheit": "g"
+      },
+      "Blattspinat": {
+        "menge": 100,
+        "einheit": "g"
+      },
+      "Sour Cream": {
+        "menge": 2,
+        "einheit": "EL"
+      },
+      "Zitronensaft": {
+        "menge": 1,
+        "einheit": "EL"
+      }
     }
   },
     {
@@ -22,15 +37,42 @@
     "Kohlenhydrate": 90,
     "Proteine": 40,
     "Zutaten und Mengen": {
-      "Rote Linsen": "80 g",
-      "Süßkartoffel": "180 g",
-      "Wrap": "1 Stk",
-      "Zwiebel": "1 Stk",
-      "Kokosmilch": "100 ml",
-      "Feta": "60 g",
-      "Ajvar": "2 EL",
-      "Rote Currypaste": "2 TL",
-      "Hummus": "2 EL"
+      "Rote Linsen": {
+        "menge": 80,
+        "einheit": "g"
+      },
+      "Süßkartoffel": {
+        "menge": 180,
+        "einheit": "g"
+      },
+      "Wrap": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Zwiebel": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Kokosmilch": {
+        "menge": 100,
+        "einheit": "ml"
+      },
+      "Feta": {
+        "menge": 60,
+        "einheit": "g"
+      },
+      "Ajvar": {
+        "menge": 2,
+        "einheit": "EL"
+      },
+      "Rote Currypaste": {
+        "menge": 2,
+        "einheit": "TL"
+      },
+      "Hummus": {
+        "menge": 2,
+        "einheit": "EL"
+      }
     }
   },
     {
@@ -41,10 +83,22 @@
     "Kohlenhydrate": 90,
     "Proteine": 48,
     "Zutaten und Mengen": {
-      "Vollkornnudeln": "110 g",
-      "Speck": "30 g",
-      "Parmesan": "30 g",
-      "Eier": "3 Stk"
+      "Vollkornnudeln": {
+        "menge": 110,
+        "einheit": "g"
+      },
+      "Speck": {
+        "menge": 30,
+        "einheit": "g"
+      },
+      "Parmesan": {
+        "menge": 30,
+        "einheit": "g"
+      },
+      "Eier": {
+        "menge": 3,
+        "einheit": "Stk"
+      }
     }
   },
     {
@@ -55,18 +109,54 @@
     "Kohlenhydrate": 90,
     "Proteine": 40,
     "Zutaten und Mengen": {
-      "Erbsen (TK)": "100 g",
-      "Rosenkohl": "200 g",
-      "Zwiebel": "1 Stk",
-      "Honig": "1 TL",
-      "Balsamico": "1 TL",
-      "Zitronensaft": "1 EL",
-      "Weiße Bohnen": "200 g",
-      "Knoblauch": "1 Stk",
-      "Minze": "10 g",
-      "Tahini": "2 EL",
-      "Walnüsse": "35 g",
-      "Griechischer Joghurt": "2 EL"
+      "Erbsen (TK)": {
+        "menge": 100,
+        "einheit": "g"
+      },
+      "Rosenkohl": {
+        "menge": 200,
+        "einheit": "g"
+      },
+      "Zwiebel": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Honig": {
+        "menge": 1,
+        "einheit": "TL"
+      },
+      "Balsamico": {
+        "menge": 1,
+        "einheit": "TL"
+      },
+      "Zitronensaft": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Weiße Bohnen": {
+        "menge": 200,
+        "einheit": "g"
+      },
+      "Knoblauch": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Minze": {
+        "menge": 10,
+        "einheit": "g"
+      },
+      "Tahini": {
+        "menge": 2,
+        "einheit": "EL"
+      },
+      "Walnüsse": {
+        "menge": 35,
+        "einheit": "g"
+      },
+      "Griechischer Joghurt": {
+        "menge": 2,
+        "einheit": "EL"
+      }
     }
   },
     {
@@ -77,16 +167,46 @@
     "Kohlenhydrate": 110,
     "Proteine": 42,
     "Zutaten und Mengen": {
-      "Fladenbrot": "1 Stk",
-      "Knoblauch": "1 Stk",
-      "Möhren": "120 g",
-      "Zwiebel": "1 Stk",
-      "Salat": "50 g",
-      "Tomaten": "100 g",
-      "Zucchini": "120 g",
-      "Feta": "80 g",
-      "Griechischer Joghurt": "2 EL",
-      "Hummus": "1 EL"
+      "Fladenbrot": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Knoblauch": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Möhren": {
+        "menge": 120,
+        "einheit": "g"
+      },
+      "Zwiebel": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Salat": {
+        "menge": 50,
+        "einheit": "g"
+      },
+      "Tomaten": {
+        "menge": 100,
+        "einheit": "g"
+      },
+      "Zucchini": {
+        "menge": 120,
+        "einheit": "g"
+      },
+      "Feta": {
+        "menge": 80,
+        "einheit": "g"
+      },
+      "Griechischer Joghurt": {
+        "menge": 2,
+        "einheit": "EL"
+      },
+      "Hummus": {
+        "menge": 1,
+        "einheit": "EL"
+      }
     }
   },
     {
@@ -97,14 +217,38 @@
     "Kohlenhydrate": 55,
     "Proteine": 40,
     "Zutaten und Mengen": {
-      "Mehl": "40 g",
-      "Butter": "20 g",
-      "Eier": "1 Stk",
-      "Blattspinat": "40 g",
-      "Tomaten": "25 g",
-      "Milch": "33 ml",
-      "Creme fraiche": "33 g",
-      "Streukäse": "16 g"
+      "Mehl": {
+        "menge": 40,
+        "einheit": "g"
+      },
+      "Butter": {
+        "menge": 20,
+        "einheit": "g"
+      },
+      "Eier": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Blattspinat": {
+        "menge": 40,
+        "einheit": "g"
+      },
+      "Tomaten": {
+        "menge": 25,
+        "einheit": "g"
+      },
+      "Milch": {
+        "menge": 33,
+        "einheit": "ml"
+      },
+      "Creme fraiche": {
+        "menge": 33,
+        "einheit": "g"
+      },
+      "Streukäse": {
+        "menge": 16,
+        "einheit": "g"
+      }
     }
   },
     {
@@ -115,16 +259,46 @@
     "Kohlenhydrate": 84,
     "Proteine": 64,
     "Zutaten und Mengen": {
-      "Räuchermakrele": "150 g",
-      "Rote Linsen": "80 g",
-      "Rote Bete": "150 g",
-      "Feldsalat": "60 g",
-      "Apfel": "1 Stk",
-      "Walnüsse": "25 g",
-      "Senf": "2 TL",
-      "Meerrettich": "1 EL",
-      "Zitronensaft": "1 EL",
-      "Griechischer Joghurt": "3 EL"
+      "Räuchermakrele": {
+        "menge": 150,
+        "einheit": "g"
+      },
+      "Rote Linsen": {
+        "menge": 80,
+        "einheit": "g"
+      },
+      "Rote Bete": {
+        "menge": 150,
+        "einheit": "g"
+      },
+      "Feldsalat": {
+        "menge": 60,
+        "einheit": "g"
+      },
+      "Apfel": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Walnüsse": {
+        "menge": 25,
+        "einheit": "g"
+      },
+      "Senf": {
+        "menge": 2,
+        "einheit": "TL"
+      },
+      "Meerrettich": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Zitronensaft": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Griechischer Joghurt": {
+        "menge": 3,
+        "einheit": "EL"
+      }
     }
   },
     {
@@ -135,15 +309,42 @@
     "Kohlenhydrate": 76,
     "Proteine": 52,
     "Zutaten und Mengen": {
-      "Tomaten (stückig)": "400 g",
-      "Paprika": "1 Stk",
-      "Kichererbsen": "120 g",
-      "Eier": "3 Stk",
-      "Feta": "70 g",
-      "Zwiebel": "1 Stk",
-      "Knoblauch": "2 Stk",
-      "Tomatenmark": "1 EL",
-      "Vollkornbrot": "2 Scheiben"
+      "Tomaten (stückig)": {
+        "menge": 400,
+        "einheit": "g"
+      },
+      "Paprika": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Kichererbsen": {
+        "menge": 120,
+        "einheit": "g"
+      },
+      "Eier": {
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      "Feta": {
+        "menge": 70,
+        "einheit": "g"
+      },
+      "Zwiebel": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Knoblauch": {
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      "Tomatenmark": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      }
     }
   },
     {
@@ -154,14 +355,38 @@
     "Kohlenhydrate": 95,
     "Proteine": 56,
     "Zutaten und Mengen": {
-      "Vollkornnudeln": "110 g",
-      "Sardinen": "120 g",
-      "Tomaten": "120 g",
-      "Rucola": "40 g",
-      "Kapern": "1 EL",
-      "Knoblauch": "2 Stk",
-      "Parmesan": "25 g",
-      "Zitronensaft": "1 EL"
+      "Vollkornnudeln": {
+        "menge": 110,
+        "einheit": "g"
+      },
+      "Sardinen": {
+        "menge": 120,
+        "einheit": "g"
+      },
+      "Tomaten": {
+        "menge": 120,
+        "einheit": "g"
+      },
+      "Rucola": {
+        "menge": 40,
+        "einheit": "g"
+      },
+      "Kapern": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Knoblauch": {
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      "Parmesan": {
+        "menge": 25,
+        "einheit": "g"
+      },
+      "Zitronensaft": {
+        "menge": 1,
+        "einheit": "EL"
+      }
     }
   }
 ]

@@ -6,10 +6,25 @@
   "Kohlenhydrate": 45,
   "Proteine": 32,
   "Zutaten und Mengen": {
-    "Skyr": "150 g",
-    "Bananen": "1 Stk",
-    "Haferflocken": "40 g",
-    "Nussmix": "20 g",
-    "Mandelmilch": "100 ml"
+    "Skyr": {
+      "menge": 150,
+      "einheit": "g"
+    },
+    "Bananen": {
+      "menge": 1,
+      "einheit": "Stk"
+    },
+    "Haferflocken": {
+      "menge": 40,
+      "einheit": "g"
+    },
+    "Nussmix": {
+      "menge": 20,
+      "einheit": "g"
+    },
+    "Mandelmilch": {
+      "menge": 100,
+      "einheit": "ml"
+    }
   }
 }]

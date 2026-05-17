@@ -1,12 +1,4 @@
 // ── State Management ──────────────────────────────────────
-const DATA_FILES = [
-  { file: './data/d2_mealprep.json',    label: 'Mealprep' },
-  { file: './data/d6_brotzeit.json',    label: 'Brotzeit' },
-  { file: './data/d7_finedining.json',  label: 'Fine Dining' },
-  { file: './data/d3_snacks.json',      label: 'Snacks' },
-  { file: './data/d4_fruehstueck.json', label: 'Frühstück' },
-  { file: './data/d5_backen.json',      label: 'Backen' }
-];
 
 let allRecipes = [];
 let categories = [];
@@ -14,7 +6,6 @@ let mapping = {};
 let selected = new Set(JSON.parse(localStorage.getItem('selected') || '[]'));
 let persons = parseInt(localStorage.getItem('persons') || '2');
 let currentRecipe = null;
-let history = ['list'];
 
 // ── Hauptinitialisierung ───────────────────────────────────
 async function init() {

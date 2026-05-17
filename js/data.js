@@ -32,9 +32,10 @@ function dataQuality(recipes, mapping) {
   let warnings = 0;
 
   recipes.forEach(r => {
-    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, menge]) => {
-      const parts = menge.split(' ');
-      const unit = parts.slice(1).join(' ');
+    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, zutatData]) => {
+      // Neue Struktur: { menge: number, einheit: string }
+      const menge = zutatData.menge;
+      const unit = zutatData.einheit;
 
       // Test 1: Zutat im Mapping vorhanden?
       if (!allMappedItems.includes(zutat)) {
@@ -48,6 +49,17 @@ function dataQuality(recipes, mapping) {
         warnings++;
       } else {
         unitTracker[zutat] = unit;
+      }
+
+      // Test 3: Datentyp-Validierung
+      if (typeof menge !== 'number' || isNaN(menge)) {
+        console.warn(`[Datenqualität] Ungültige Menge bei "${zutat}": ${menge} (Rezept: ${r.Rezeptname})`);
+        warnings++;
+      }
+
+      if (typeof unit !== 'string' || unit.trim() === '') {
+        console.warn(`[Datenqualität] Ungültige Einheit bei "${zutat}": "${unit}" (Rezept: ${r.Rezeptname})`);
+        warnings++;
       }
     });
   });

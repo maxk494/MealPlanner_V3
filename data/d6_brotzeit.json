@@ -7,11 +7,26 @@
     "Kohlenhydrate": 38,
     "Proteine": 31,
     "Zutaten und Mengen": {
-      "Vollkornbrot": "2 Scheiben",
-      "Räucherlachs": "100 g",
-      "Avocado": "1 Stk",
-      "Zwiebel": "1 Stk",
-      "Zitronensaft": "1 EL"
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      "Räucherlachs": {
+        "menge": 100,
+        "einheit": "g"
+      },
+      "Avocado": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Zwiebel": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Zitronensaft": {
+        "menge": 1,
+        "einheit": "EL"
+      }
     }
   },
   {
@@ -22,11 +37,26 @@
     "Kohlenhydrate": 44,
     "Proteine": 27,
     "Zutaten und Mengen": {
-      "Vollkornbrot": "2 Scheiben",
-      "Körniger Frischkäse": "150 g",
-      "Walnüsse": "25 g",
-      "Feigen": "1 Stk",
-      "Honig": "1 TL"
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      "Körniger Frischkäse": {
+        "menge": 150,
+        "einheit": "g"
+      },
+      "Walnüsse": {
+        "menge": 25,
+        "einheit": "g"
+      },
+      "Feigen": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Honig": {
+        "menge": 1,
+        "einheit": "TL"
+      }
     }
   },
   {
@@ -37,10 +67,22 @@
     "Kohlenhydrate": 36,
     "Proteine": 35,
     "Zutaten und Mengen": {
-      "Vollkornbrot": "2 Scheiben",
-      "Eier": "3 Stk",
-      "Blattspinat (TK)": "60 g",
-      "Parmesan": "20 g"
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      "Eier": {
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      "Blattspinat (TK)": {
+        "menge": 60,
+        "einheit": "g"
+      },
+      "Parmesan": {
+        "menge": 20,
+        "einheit": "g"
+      }
     }
   },
   {
@@ -51,12 +93,27 @@
     "Kohlenhydrate": 52,
     "Proteine": 20,
     "Zutaten und Mengen": {
-      "Vollkornbrot": "2 Scheiben",
-      "Hummus": "1 EL",
-      "Rote Bete": "100 g",
-      "Kürbiskerne": "20 g",
-      "Feta": "30 g"
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      "Hummus": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Rote Bete": {
+        "menge": 100,
+        "einheit": "g"
+      },
+      "Kürbiskerne": {
+        "menge": 20,
+        "einheit": "g"
+      },
+      "Feta": {
+        "menge": 30,
+        "einheit": "g"
       }
+    }
   },
   {
     "Rezeptname": "Brot mit Erdnussbutter und Banane",
@@ -66,11 +123,26 @@
     "Kohlenhydrate": 58,
     "Proteine": 16,
     "Zutaten und Mengen": {
-      "Vollkornbrot": "2 Scheiben",
-      "Mandelmus": "30 g",
-      "Bananen": "1 Stk",
-      "Chiasamen": "10 g",
-      "Honig": "1 TL"
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      "Mandelmus": {
+        "menge": 30,
+        "einheit": "g"
+      },
+      "Bananen": {
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      "Chiasamen": {
+        "menge": 10,
+        "einheit": "g"
+      },
+      "Honig": {
+        "menge": 1,
+        "einheit": "TL"
+      }
     }
   },
   {
@@ -81,11 +153,26 @@
     "Kohlenhydrate": 46,
     "Proteine": 30,
     "Zutaten und Mengen": {
-      "Vollkornbrot": "2 Scheiben",
-      "Haloumi": "80 g",
-      "Hummus": "1 EL",
-      "Granatapfelkerne": "40 g",
-      "Zitronensaft": "1 EL"
+      "Vollkornbrot": {
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      "Haloumi": {
+        "menge": 80,
+        "einheit": "g"
+      },
+      "Hummus": {
+        "menge": 1,
+        "einheit": "EL"
+      },
+      "Granatapfelkerne": {
+        "menge": 40,
+        "einheit": "g"
+      },
+      "Zitronensaft": {
+        "menge": 1,
+        "einheit": "EL"
+      }
     }
   }
 ]

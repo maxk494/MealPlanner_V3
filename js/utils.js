@@ -13,10 +13,9 @@ function copyList() {
   
   const totals = {};
   selectedRecipes.forEach(r => {
-    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, menge]) => {
-      const parts = menge.split(' ');
-      const amount = parseFloat(parts[0]);
-      const unit = parts.slice(1).join(' ');
+    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, zutatData]) => {
+      const amount = zutatData.menge;
+      const unit = zutatData.einheit;
       if (totals[zutat]) { totals[zutat].amount += amount * persons; }
       else { totals[zutat] = { amount: amount * persons, unit }; }
     });
