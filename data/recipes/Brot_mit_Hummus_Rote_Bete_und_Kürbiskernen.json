@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Brot mit Hummus, Rote Bete und Kürbiskernen",
+  "tags": [
+    "Brotzeit", "Basis_Hummus"
+  ],
+  "zubereitung": "Vollkornbrot toasten (2–3 Min.). Hummus großzügig auf beiden Scheiben verteilen. Rote Bete in dünne Scheiben schneiden und darauflegen. Feta zerbröckeln und darüber verteilen. Kürbiskerne ohne Fett in einer Pfanne rösten (2–3 Min.) und darüber streuen.",
+  "naehrwerte": {
+    "kalorien_kcal": 510,
+    "fett_g": 24,
+    "kohlenhydrate_g": 52,
+    "proteine_g": 20
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Hummus", "menge": 1, "einheit": "EL"},
+    {"zutat": "Rote Bete", "menge": 100, "einheit": "g"},
+    {"zutat": "Kürbiskerne", "menge": 20, "einheit": "g"},
+    {"zutat": "Feta", "menge": 30, "einheit": "g"}
+  ]
+}

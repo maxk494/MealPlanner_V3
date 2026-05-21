@@ -1,0 +1,22 @@
+{
+  "rezeptname": "Salat mit Grünkohl und Linsen",
+  "tags": [
+    "MealPrep (KS)"
+  ],
+  "zubereitung": "Linsen in Wasser garen (8–10 Min). Grünkohl kochen (5–7 Min). Nüsse grob hacken. Dressing aus Öl, Essig, Senf und Honig anrühren. Alle Zutaten vermengen, kurz ziehen lassen (5 Min).",
+  "naehrwerte": {
+    "kalorien_kcal": 870,
+    "fett_g": 38,
+    "kohlenhydrate_g": 75,
+    "proteine_g": 42
+  },
+  "zutaten": [
+    {"zutat": "Rote Linsen", "menge": 100, "einheit": "g"},
+    {"zutat": "Grünkohl (TK)", "menge": 150, "einheit": "g"},
+    {"zutat": "Apfel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Walnüsse", "menge": 40, "einheit": "g"},
+    {"zutat": "Feta", "menge": 50, "einheit": "g"},
+    {"zutat": "Senf", "menge": 1, "einheit": "TL"},
+    {"zutat": "Honig", "menge": 1, "einheit": "TL"}
+  ]
+}

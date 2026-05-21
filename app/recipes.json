@@ -1,0 +1,1622 @@
+[
+  {
+    "rezeptname": "Bagels aus Magerquark",
+    "tags": [
+      "Backen"
+    ],
+    "zubereitung": "Backofen auf 200 Grad Ober-/Unterhitze vorheizen. Magerquark, Mehl, Backpulver und Eier zu einem glatten Teig vermengen. Den Teig in 4 Stücke teilen, rund formen und in der Mitte ein Loch eindrücken, sodass Bagelringe entstehen. Die Oberfläche mit verquirltem Ei bestreichen und mit Sesam bestreuen. Auf ein mit Backpapier belegtes Blech legen und 15–20 Minuten backen, bis sie goldbraun sind. Anschließend auskühlen lassen.",
+    "naehrwerte": {
+      "kalorien_kcal": 860,
+      "fett_g": 25,
+      "kohlenhydrate_g": 90,
+      "proteine_g": 65
+    },
+    "zutaten": [
+      {
+        "zutat": "Magerquark",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mehl",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Sesam",
+        "menge": 20,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Bananenbrot mit Haferflocken",
+    "tags": [
+      "Backen"
+    ],
+    "zubereitung": "Backofen auf 170 °C Umluft vorheizen. Bananen in einer großen Schüssel mit einer Gabel zerdrücken. Butter hinzufügen und unterrühren, bis eine gleichmäßige Masse entsteht. Eier aufschlagen, mit Ahornsirup verquirlen und in das Bananenmus einrühren. Mehl, Haferflocken, Backpulver, Zimt, Erdnussbutter und eine Prise Salz in einer separaten Schüssel mischen. Diese trockene Mischung nach und nach in das Bananenmus geben und verrühren, bis ein glatter Teig entsteht. Zum Schluss Milch hinzugeben und nochmals gut durchmischen. Eine Kastenform einfetten und bemehlen, den Teig hineingeben und im Ofen 40–45 Minuten backen. Mit der Stäbchenprobe prüfen, ob das Brot gar ist. Nach dem Backen in der Form leicht abkühlen lassen, dann aus der Form nehmen und vollständig auskühlen lassen.",
+    "naehrwerte": {
+      "kalorien_kcal": 1750,
+      "fett_g": 60,
+      "kohlenhydrate_g": 235,
+      "proteine_g": 50
+    },
+    "zutaten": [
+      {
+        "zutat": "Bananen",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Butter",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 4,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Erdnussmus",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Haferflocken",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mehl",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Milch",
+        "menge": 90,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Backpulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Zimt",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Bowl mit Hummus und Bulgur",
+    "tags": [
+      "Daily",
+      "Basis_Hummus"
+    ],
+    "zubereitung": "Gemüsebrühe aufkochen und Bulgur 10 Min. quellen lassen. Kichererbsen abgießen und etwas Flüssigkeit auffangen. Zitronensaft, Kichererbsen, Knoblauch, Olivenöl, Kreuzkümmel, Salz, Pfeffer, Tahini und Flüssigkeit zu Hummus pürieren. Gurke entkernen und mit Tomate, Oliven und Minze würfeln. Falafeln anbraten (5–6 Min) und alles gemeinsam anrichten.",
+    "naehrwerte": {
+      "kalorien_kcal": 1000,
+      "fett_g": 40,
+      "kohlenhydrate_g": 105,
+      "proteine_g": 42
+    },
+    "zutaten": [
+      {
+        "zutat": "Gemüsebrühe",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Bulgur",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kichererbsen",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tahini",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Falafel",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Minze",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Oliven",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Erdnussbutter und Banane",
+    "tags": [
+      "Brotzeit"
+    ],
+    "zubereitung": "Vollkornbrot toasten (2–3 Min.). Mandelmus gleichmäßig auf beiden Scheiben verteilen. Banane in Scheiben schneiden und darauflegen. Chiasamen gleichmäßig darüber streuen. Mit einem Teelöffel Honig beträufeln.",
+    "naehrwerte": {
+      "kalorien_kcal": 520,
+      "fett_g": 26,
+      "kohlenhydrate_g": 58,
+      "proteine_g": 16
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Mandelmus",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Bananen",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Chiasamen",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Erdnussmus und Banane",
+    "tags": [
+      "Snacks"
+    ],
+    "zubereitung": "Vollkornbrot mit Erdnussmus bestreichen und mit Banane vervollständigen.",
+    "naehrwerte": {
+      "kalorien_kcal": 475,
+      "fett_g": 17,
+      "kohlenhydrate_g": 65,
+      "proteine_g": 16
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Erdnussmus",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Bananen",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Hummus, Haloumi und Granatapfel",
+    "tags": [
+      "Brotzeit",
+      "Basis_Hummus"
+    ],
+    "zubereitung": "Haloumi in ca. 5 mm dicke Scheiben schneiden. In einer beschichteten Pfanne ohne Fett bei mittlerer bis hoher Hitze von beiden Seiten goldbraun grillen (je 2–3 Min.). Vollkornbrot toasten (2–3 Min.). Hummus gleichmäßig auf beiden Scheiben verteilen. Haloumi darauflegen. Granatapfelkerne darüber streuen. Mit frischer Minze und einem Spritzer Zitronensaft abschließen.",
+    "naehrwerte": {
+      "kalorien_kcal": 580,
+      "fett_g": 30,
+      "kohlenhydrate_g": 46,
+      "proteine_g": 30
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Haloumi",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Hummus",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Granatapfelkerne",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Hummus, Rote Bete und Kürbiskernen",
+    "tags": [
+      "Brotzeit",
+      "Basis_Hummus"
+    ],
+    "zubereitung": "Vollkornbrot toasten (2–3 Min.). Hummus großzügig auf beiden Scheiben verteilen. Rote Bete in dünne Scheiben schneiden und darauflegen. Feta zerbröckeln und darüber verteilen. Kürbiskerne ohne Fett in einer Pfanne rösten (2–3 Min.) und darüber streuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 510,
+      "fett_g": 24,
+      "kohlenhydrate_g": 52,
+      "proteine_g": 20
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Hummus",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Rote Bete",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kürbiskerne",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 30,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Hüttenkäse, Walnüssen und Feige",
+    "tags": [
+      "Brotzeit"
+    ],
+    "zubereitung": "Vollkornbrot toasten (2–3 Min.). Hüttenkäse gleichmäßig auf beiden Scheiben verteilen. Walnüsse grob hacken. Feige in dünne Scheiben schneiden und auf dem Hüttenkäse anrichten. Walnüsse darüber streuen und mit einem Teelöffel Honig beträufeln.",
+    "naehrwerte": {
+      "kalorien_kcal": 490,
+      "fett_g": 22,
+      "kohlenhydrate_g": 44,
+      "proteine_g": 27
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feigen",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Lachs und Avocado",
+    "tags": [
+      "Brotzeit"
+    ],
+    "zubereitung": "Avocado halbieren, Kern entfernen und Fruchtfleisch mit einer Gabel zu einer cremigen Masse zerdrücken. Mit Zitronensaft abschmecken. Vollkornbrot toasten (2–3 Min.). Avocadomasse gleichmäßig auf beiden Scheiben verteilen. Räucherlachs darauflegen. Rote Zwiebel in dünne Ringe schneiden und darüber verteilen. Mit etwas frisch gemahlenem Pfeffer abschließen.",
+    "naehrwerte": {
+      "kalorien_kcal": 540,
+      "fett_g": 28,
+      "kohlenhydrate_g": 38,
+      "proteine_g": 31
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Räucherlachs",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Avocado",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Rührei, Spinat und Parmesan",
+    "tags": [
+      "Brotzeit"
+    ],
+    "zubereitung": "Tiefgekühlten Spinat auftauen und gut ausdrücken. Eier in einer Schüssel verquirlen. Butter in einer Pfanne bei mittlerer Hitze schmelzen (1 Min.), Spinat kurz miterhitzen (2 Min.). Eier zugeben und bei niedriger Hitze unter ständigem Rühren cremig stocken lassen (3–4 Min.). Parmesan unterrühren. Vollkornbrot toasten (2–3 Min.) und Rührei darauf anrichten.",
+    "naehrwerte": {
+      "kalorien_kcal": 560,
+      "fett_g": 32,
+      "kohlenhydrate_g": 36,
+      "proteine_g": 35
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Blattspinat (TK)",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Brot mit Thunfisch-Hüttenkäse-Aufstrich",
+    "tags": [
+      "Snacks"
+    ],
+    "zubereitung": "Thunfisch abtropfen lassen und mit Hüttenkäse vermischen. Eingelegte Tomaten in kleine Stücke schneiden und untermischen. Mischung mit Salz, Pfeffer und frischem Basilikum abschmecken. Aufgeschnittenes Vollkornbrot mit der Thunfisch-Hüttenkäse-Creme bestreichen und servieren.",
+    "naehrwerte": {
+      "kalorien_kcal": 420,
+      "fett_g": 14,
+      "kohlenhydrate_g": 35,
+      "proteine_g": 38
+    },
+    "zutaten": [
+      {
+        "zutat": "Thunfisch",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten (eingelegt)",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Chili sin Carne",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Möhren und Paprika klein schneiden, in Öl ca. 5 Min. andünsten. Kidneybohnen, Mais und stückige Tomaten hinzufügen. Mit Gewürzen abschmecken und ca. 20 Min. köcheln lassen. Mit gekochtem Vollkornreis servieren (Reis 25–30 Min. kochen).",
+    "naehrwerte": {
+      "kalorien_kcal": 840,
+      "fett_g": 18,
+      "kohlenhydrate_g": 125,
+      "proteine_g": 34
+    },
+    "zutaten": [
+      {
+        "zutat": "Kidneybohnen",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mais",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten (stückig)",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornreis",
+        "menge": 90,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Curry mit Belugalinsen und Süßkartoffeln",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Zwiebel, Knoblauch schälen und hacken. Möhre schälen und würfeln. Kokosöl in einem Topf erhitzen, Zwiebel, Knoblauch und Möhre 1–2 Min. andünsten. Currypaste zugeben und kurz anschwitzen. Belugalinsen zugeben, mit stückigen Tomaten, Kokosmilch und Gemüsebrühe ablöschen. Ca. 30 Min. leicht köcheln lassen, dabei nach und nach restliche Brühe zugeben. Süßkartoffel schälen, würfeln und nach ca. 10 Min. mitgaren. Zum Schluss Limettensaft, Salz und Pfeffer einrühren.",
+    "naehrwerte": {
+      "kalorien_kcal": 850,
+      "fett_g": 28,
+      "kohlenhydrate_g": 105,
+      "proteine_g": 38
+    },
+    "zutaten": [
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kokosöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Rote Currypaste",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Belugalinsen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten (stückig)",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kokosmilch",
+        "menge": 150,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Gemüsebrühe",
+        "menge": 150,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Süßkartoffel",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Limettensaft",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Curry mit Tempeh und Gemüse",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Tempeh in Würfel schneiden. Tempeh, Möhren, Zucchini und Zwiebeln anbraten (6–8 Min). Rote Curry-Paste hinzugeben und kurz mitrösten (1–2 Min). Mit Gemüsebrühe und Kokosmilch ablöschen. Brokkoli und Paprika hinzugeben und köcheln lassen (20 Min). Vollkornreis separat kochen (25–30 Min) und zum Curry servieren. Alternativ mit Tofu/Hähnchen und Soja-Erdnusssauce möglich.",
+    "naehrwerte": {
+      "kalorien_kcal": 980,
+      "fett_g": 32,
+      "kohlenhydrate_g": 90,
+      "proteine_g": 48
+    },
+    "zutaten": [
+      {
+        "zutat": "Tempeh",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornreis",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kokosmilch",
+        "menge": 150,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Gemüsebrühe",
+        "menge": 150,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Rote Currypaste",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zucchini",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Edamame mit Sesam und Sojasoße",
+    "tags": [
+      "Snacks"
+    ],
+    "zubereitung": "Tiefgekühlte Edamame (in der Schale oder geschält) in kochendem Salzwasser 4–5 Minuten kochen. Abgießen und kurz abkühlen lassen. Mit Sojasoße beträufeln und gerösteten Sesam darüber streuen. Optional etwas Sesamöl hinzufügen.",
+    "naehrwerte": {
+      "kalorien_kcal": 380,
+      "fett_g": 14,
+      "kohlenhydrate_g": 24,
+      "proteine_g": 29
+    },
+    "zutaten": [
+      {
+        "zutat": "Edamame (TK)",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Sesam",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sesamöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Gemüse-Döner",
+    "tags": [
+      "Daily",
+      "Basis_Ofengemüse"
+    ],
+    "zubereitung": "Knoblauch würfeln und mit Joghurt, Salz und Pfeffer verrühren. Möhren hobeln und mit Pfeffer, Essig und Öl mischen. Zwiebel in Ringe schneiden. Das Innere der Zucchini entfernen, würfeln und anbraten (5–6 Min). Vollkorn-Fladenbrot in der Pfanne rösten (2–3 Min). Alle Zutaten im Fladenbrot anrichten.",
+    "naehrwerte": {
+      "kalorien_kcal": 920,
+      "fett_g": 36,
+      "kohlenhydrate_g": 110,
+      "proteine_g": 42
+    },
+    "zutaten": [
+      {
+        "zutat": "Fladenbrot",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Salat",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zucchini",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Hummus",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Gemüse-Pfanne mit Erbsen Rührei",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Vollkornreis 25 Minuten kochen. Paprika, Brokkoli und Zucchini in 7 Minuten anbraten, Erbsen zufügen, 3 Minuten weitergaren. Eier verquirlen, über das Gemüse geben, 4 Minuten unter Rühren stocken lassen. Gekochten Reis unterheben, mit Sojasauce und Kräutern abschmecken.",
+    "naehrwerte": {
+      "kalorien_kcal": 820,
+      "fett_g": 26,
+      "kohlenhydrate_g": 95,
+      "proteine_g": 42
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornreis",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zucchini",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Erbsen (TK)",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Granola",
+    "tags": [
+      "Frühstück"
+    ],
+    "zubereitung": "Backofen auf 180 °C Ober-/Unterhitze vorheizen und ein Blech mit Backpapier auslegen. Haferflocken, Nüsse, Kürbiskerne, Leinsamen, Cranberries und Zimt in einer großen Schüssel vermengen. Kokosöl mit Honig und Erdnussbutter in einem kleinen Topf bei niedriger Hitze schmelzen lassen, gut umrühren und leicht abkühlen lassen. Die flüssige Mischung über die trockenen Zutaten geben und gründlich vermengen, bis alles gleichmäßig benetzt ist. Die Masse gleichmäßig auf dem Blech verteilen und leicht andrücken. Im Ofen 20 Minuten goldbraun backen, dabei nach 10 Minuten einmal umrühren. Nach dem Backen vollständig auskühlen lassen und in einem luftdichten Behälter aufbewahren.",
+    "naehrwerte": {
+      "kalorien_kcal": 1750,
+      "fett_g": 90,
+      "kohlenhydrate_g": 170,
+      "proteine_g": 45
+    },
+    "zutaten": [
+      {
+        "zutat": "Haferflocken",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Nussmix",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Cranberries",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kokosöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Erdnussmus",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zimt",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Griechischer Joghurt mit Walnüssen und Honig",
+    "tags": [
+      "Snacks"
+    ],
+    "zubereitung": "Griechischen Joghurt in eine Schale geben, Walnüsse grob hacken und darüberstreuen. Mit etwas Honig beträufeln. Beeren hinzugeben.",
+    "naehrwerte": {
+      "kalorien_kcal": 400,
+      "fett_g": 16,
+      "kohlenhydrate_g": 30,
+      "proteine_g": 28
+    },
+    "zutaten": [
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Beeren (TK)",
+        "menge": 50,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Hüttenkäse mit Gurke und Tomaten",
+    "tags": [
+      "Snacks"
+    ],
+    "zubereitung": "Hüttenkäse mit Gurke und Tomaten vermischen.",
+    "naehrwerte": {
+      "kalorien_kcal": 350,
+      "fett_g": 10,
+      "kohlenhydrate_g": 20,
+      "proteine_g": 30
+    },
+    "zutaten": [
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 50,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Lachs mit Süßkartoffeln und Spinat",
+    "tags": [
+      "Fine Dining"
+    ],
+    "zubereitung": "Süßkartoffel in Würfel schneiden und in Salzwasser garen (15–20 Min.). Das Lachsfilet von beiden Seiten anbraten (je 3–4 Min.). Blattspinat waschen und mit 50 ml Wasser, Salz und Butter im Topf schwenken (3–4 Min.). Mit Sour Cream, Lachs, Süßkartoffel und Zitrone auf dem Teller anrichten.",
+    "naehrwerte": {
+      "kalorien_kcal": 820,
+      "fett_g": 46,
+      "kohlenhydrate_g": 55,
+      "proteine_g": 48
+    },
+    "zutaten": [
+      {
+        "zutat": "Lachs",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Süßkartoffel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Blattspinat",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sour Cream",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Nudeln alla Carbonara",
+    "tags": [
+      "Fine Dining"
+    ],
+    "zubereitung": "Spaghetti kochen (10–12 Min). Speckwürfel andünsten (5–7 Min). Eigelb mit Käse verrühren. Nudeln mit Speck mischen, vom Herd ziehen, Eimischung unterheben.",
+    "naehrwerte": {
+      "kalorien_kcal": 900,
+      "fett_g": 38,
+      "kohlenhydrate_g": 90,
+      "proteine_g": 48
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 110,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Speck",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Nudeln aus roten Linsen mit Tofu",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Pasta kochen (10–12 Min). Tofu würfeln, mit Cashewkernen anbraten (6–8 Min) und zur Seite stellen. Paprika, Lauch und Zuckerschoten in restlichem Öl anbraten (5–6 Min). Mit Kokosmilch ablöschen und mit Curry, Salz, Pfeffer würzen. Alles vermengen und anrichten.",
+    "naehrwerte": {
+      "kalorien_kcal": 1000,
+      "fett_g": 40,
+      "kohlenhydrate_g": 80,
+      "proteine_g": 52
+    },
+    "zutaten": [
+      {
+        "zutat": "Rote-Linsen Nudeln",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tofu",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Cashews",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zuckerschoten",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Lauch",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Kokosmilch",
+        "menge": 150,
+        "einheit": "ml"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Linsenbolognese",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Suppengrün klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren (Nudeln 10–12 Min. kochen).",
+    "naehrwerte": {
+      "kalorien_kcal": 960,
+      "fett_g": 18,
+      "kohlenhydrate_g": 120,
+      "proteine_g": 50
+    },
+    "zutaten": [
+      {
+        "zutat": "Rote Linsen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Suppengrün",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten (stückig)",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomatenmark",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Nudelsalat",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Nudeln kochen (10–12 Min). Paprika und Zwiebeln würfeln und in Balsamico-Essig 10 Min. ziehen lassen. Tomaten und Knoblauch würfeln. Kichererbsen abspülen. Pinienkerne in der Pfanne rösten (2–3 Min). Für das Dressing Essig, Senf, Pesto, Öl und Balsamico-Creme verrühren. Mit Salz und Pfeffer abschmecken. Salat mischen und mit Parmesan bestreuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 940,
+      "fett_g": 36,
+      "kohlenhydrate_g": 120,
+      "proteine_g": 40
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 110,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kichererbsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Pinienkerne",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Pesto",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Ofengemüse mit Linsen und Feta",
+    "tags": [
+      "MealPrep (KS)",
+      "Basis_Ofengemüse"
+    ],
+    "zubereitung": "Paprika, Zucchini, Möhren und Rote Bete klein schneiden. Mit roten Linsen und Kichererbsen mischen, mit etwas Öl beträufeln und bei 180 °C ca. 20 Min. im Ofen backen. Anschließend Feta in Würfel schneiden, untermischen und kurz ziehen lassen.",
+    "naehrwerte": {
+      "kalorien_kcal": 870,
+      "fett_g": 30,
+      "kohlenhydrate_g": 85,
+      "proteine_g": 44
+    },
+    "zutaten": [
+      {
+        "zutat": "Rote Linsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kichererbsen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zucchini",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Rote Bete",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 80,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Pilz-Pfanne mit Buchweizen und Ei",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Buchweizen in leicht gesalzenem Wasser kochen (12–15 Min). Kräuterseitlinge in grobe Stücke schneiden, Champignons vierteln. Zwiebel und Knoblauch würfeln. Butter und Olivenöl in einer großen Pfanne erhitzen, Zwiebel und Knoblauch anschwitzen (2–3 Min). Pilze bei hoher Hitze anbraten, bis sie goldbraun sind (8–10 Min) – nicht zu früh rühren. Spinat unterheben und zusammenfallen lassen (2–3 Min). Eier verquirlen, über die Pfanne geben und bei mittlerer Hitze stocken lassen (3–4 Min). Buchweizen unterheben, mit Parmesan bestreuen und Walnüsse darübergeben.",
+    "naehrwerte": {
+      "kalorien_kcal": 976,
+      "fett_g": 50,
+      "kohlenhydrate_g": 73,
+      "proteine_g": 60
+    },
+    "zutaten": [
+      {
+        "zutat": "Kräuterseitlinge",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Champignons",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Buchweizen",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Blattspinat",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Butter",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 15,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Quiche mit Spinat",
+    "tags": [
+      "Fine Dining"
+    ],
+    "zubereitung": "Mengen für 12 Stücke (Portion = 2 Stücke). Mehl, Butter, 1 Ei, 2 EL Wasser und Salz mit dem Knethaken zu Mürbeteig verarbeiten. Zu einer Kugel formen, in Frischhaltefolie wickeln und 30 Min. in den Kühlschrank legen. Spinat und Knoblauch erhitzen, bis der Spinat zusammengefallen ist (5–7 Min). Mit Salz, Pfeffer und Muskat würzen. Spinat gut ausdrücken. Teig rund ausrollen und auf dem Boden einer gefetteten Quiche-Form auslegen. Teigboden mit Gabel einstechen und mit Semmelbröseln bestreuen. Tomaten und Spinat gleichmäßig verteilen. Milch, Creme fraiche und 4 Eier verrühren, mit Salz und Pfeffer würzen und auf dem Gemüse verteilen. Mit Käse bestreuen und bei 200 Grad Umluft 40 Min. backen.",
+    "naehrwerte": {
+      "kalorien_kcal": 860,
+      "fett_g": 48,
+      "kohlenhydrate_g": 55,
+      "proteine_g": 40
+    },
+    "zutaten": [
+      {
+        "zutat": "Mehl",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Butter",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Blattspinat",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Milch",
+        "menge": 33,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Creme fraiche",
+        "menge": 33,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Streukäse",
+        "menge": 16,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Salat mit Bohnen und Bulgur",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Die Gemüsebrühe aufkochen und den Bulgur bei verringerter Hitze quellen lassen (15 Min.). Paprika und Zwiebeln würfeln. Bohnen und Mais abspülen. Feta würfeln. Für das Dressing Olivenöl, Zitronensaft und Senf verquirlen. Knoblauch klein hacken und dazugeben. Mit Salz und Pfeffer würzen. Den Salat vor dem Servieren 30 Min. im Kühlschrank ziehen lassen.",
+    "naehrwerte": {
+      "kalorien_kcal": 900,
+      "fett_g": 32,
+      "kohlenhydrate_g": 115,
+      "proteine_g": 44
+    },
+    "zutaten": [
+      {
+        "zutat": "Gemüsebrühe",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Bulgur",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Weiße Bohnen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kidneybohnen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mais",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Salat mit Grünkohl und Linsen",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Linsen in Wasser garen (8–10 Min). Grünkohl kochen (5–7 Min). Nüsse grob hacken. Dressing aus Öl, Essig, Senf und Honig anrühren. Alle Zutaten vermengen, kurz ziehen lassen (5 Min).",
+    "naehrwerte": {
+      "kalorien_kcal": 870,
+      "fett_g": 38,
+      "kohlenhydrate_g": 75,
+      "proteine_g": 42
+    },
+    "zutaten": [
+      {
+        "zutat": "Rote Linsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Grünkohl (TK)",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Apfel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Salat mit Thunfisch, Quinoa und Ei",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Quinoa ca. 15 Min. in Wasser kochen und abkühlen lassen. Ei ca. 8–10 Min. hart kochen, schälen und in Stücke schneiden. Weiße Bohnen abspülen und Thunfisch abtropfen lassen. Mit Mais und Tomaten mischen, Zitronensaft und etwas Öl zugeben. Lauwarm oder kalt genießen.",
+    "naehrwerte": {
+      "kalorien_kcal": 860,
+      "fett_g": 24,
+      "kohlenhydrate_g": 90,
+      "proteine_g": 54
+    },
+    "zutaten": [
+      {
+        "zutat": "Thunfisch",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Quinoa",
+        "menge": 90,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mais",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Weiße Bohnen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Salat mit roten Linsen, Gurke, Tomaten und Feta",
+    "tags": [
+      "Snacks"
+    ],
+    "zubereitung": "Rote Linsen nach Packungsanleitung ca. 5-7 Minuten kochen, abgießen und abkühlen lassen. Gurke und Tomaten in kleine Würfel schneiden. Feta würfeln. Alle Zutaten in einer Schüssel vermengen. Mit Olivenöl, Zitronensaft, Salz, Pfeffer und frischen Kräutern (z.B. Petersilie) abschmecken.",
+    "naehrwerte": {
+      "kalorien_kcal": 450,
+      "fett_g": 20,
+      "kohlenhydrate_g": 35,
+      "proteine_g": 28
+    },
+    "zutaten": [
+      {
+        "zutat": "Rote Linsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Wrap mit Linsen und Süßkartoffeln",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Zwiebeln und Süßkartoffeln 3 Minuten dünsten. Im Anschluss Linsen und rote Currypaste hinzugeben. Wasser (100 ml) und Kokosmilch hinzufügen und 15 Minuten köcheln lassen. Abschließend Feta drüberstreuen. Den Wrap mit Hummus und Ajvar bestreichen und befüllen.",
+    "naehrwerte": {
+      "kalorien_kcal": 900,
+      "fett_g": 26,
+      "kohlenhydrate_g": 90,
+      "proteine_g": 40
+    },
+    "zutaten": [
+      {
+        "zutat": "Rote Linsen",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Süßkartoffel",
+        "menge": 180,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Wrap",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Kokosmilch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Ajvar",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Rote Currypaste",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Hummus",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  }
+]

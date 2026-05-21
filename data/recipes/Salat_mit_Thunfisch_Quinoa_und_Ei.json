@@ -1,0 +1,24 @@
+{
+  "rezeptname": "Salat mit Thunfisch, Quinoa und Ei",
+  "tags": [
+    "MealPrep (KS)"
+  ],
+  "zubereitung": "Quinoa ca. 15 Min. in Wasser kochen und abkühlen lassen. Ei ca. 8–10 Min. hart kochen, schälen und in Stücke schneiden. Weiße Bohnen abspülen und Thunfisch abtropfen lassen. Mit Mais und Tomaten mischen, Zitronensaft und etwas Öl zugeben. Lauwarm oder kalt genießen.",
+  "naehrwerte": {
+    "kalorien_kcal": 860,
+    "fett_g": 24,
+    "kohlenhydrate_g": 90,
+    "proteine_g": 54
+  },
+  "zutaten": [
+    {"zutat": "Thunfisch", "menge": 150, "einheit": "g"},
+    {"zutat": "Quinoa", "menge": 90, "einheit": "g"},
+    {"zutat": "Mais", "menge": 80, "einheit": "g"},
+    {"zutat": "Tomaten", "menge": 120, "einheit": "g"},
+    {"zutat": "Weiße Bohnen", "menge": 120, "einheit": "g"},
+    {"zutat": "Eier", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"},
+    {"zutat": "Paprika", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "rezeptname": "Gemüse-Pfanne mit Erbsen Rührei",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Vollkornreis 25 Minuten kochen. Paprika, Brokkoli und Zucchini in 7 Minuten anbraten, Erbsen zufügen, 3 Minuten weitergaren. Eier verquirlen, über das Gemüse geben, 4 Minuten unter Rühren stocken lassen. Gekochten Reis unterheben, mit Sojasauce und Kräutern abschmecken.",
+  "naehrwerte": {
+    "kalorien_kcal": 820,
+    "fett_g": 26,
+    "kohlenhydrate_g": 95,
+    "proteine_g": 42
+  },
+  "zutaten": [
+    {"zutat": "Vollkornreis", "menge": 100, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Brokkoli", "menge": 150, "einheit": "g"},
+    {"zutat": "Zucchini", "menge": 120, "einheit": "g"},
+    {"zutat": "Erbsen (TK)", "menge": 80, "einheit": "g"},
+    {"zutat": "Eier", "menge": 3, "einheit": "Stk"},
+    {"zutat": "Sojasauce", "menge": 1, "einheit": "EL"}
+  ]
+}

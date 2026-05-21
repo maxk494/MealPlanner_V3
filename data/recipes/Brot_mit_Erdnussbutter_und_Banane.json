@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Brot mit Erdnussbutter und Banane",
+  "tags": [
+    "Brotzeit"
+  ],
+  "zubereitung": "Vollkornbrot toasten (2–3 Min.). Mandelmus gleichmäßig auf beiden Scheiben verteilen. Banane in Scheiben schneiden und darauflegen. Chiasamen gleichmäßig darüber streuen. Mit einem Teelöffel Honig beträufeln.",
+  "naehrwerte": {
+    "kalorien_kcal": 520,
+    "fett_g": 26,
+    "kohlenhydrate_g": 58,
+    "proteine_g": 16
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Mandelmus", "menge": 30, "einheit": "g"},
+    {"zutat": "Bananen", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Chiasamen", "menge": 10, "einheit": "g"},
+    {"zutat": "Honig", "menge": 1, "einheit": "TL"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rezeptname": "Wrap mit Linsen und Süßkartoffeln",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Zwiebeln und Süßkartoffeln 3 Minuten dünsten. Im Anschluss Linsen und rote Currypaste hinzugeben. Wasser (100 ml) und Kokosmilch hinzufügen und 15 Minuten köcheln lassen. Abschließend Feta drüberstreuen. Den Wrap mit Hummus und Ajvar bestreichen und befüllen.",
+  "naehrwerte": {
+    "kalorien_kcal": 900,
+    "fett_g": 26,
+    "kohlenhydrate_g": 90,
+    "proteine_g": 40
+  },
+  "zutaten": [
+    {"zutat": "Rote Linsen", "menge": 80, "einheit": "g"},
+    {"zutat": "Süßkartoffel", "menge": 180, "einheit": "g"},
+    {"zutat": "Wrap", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Kokosmilch", "menge": 100, "einheit": "ml"},
+    {"zutat": "Feta", "menge": 60, "einheit": "g"},
+    {"zutat": "Ajvar", "menge": 2, "einheit": "EL"},
+    {"zutat": "Rote Currypaste", "menge": 2, "einheit": "TL"},
+    {"zutat": "Hummus", "menge": 2, "einheit": "EL"}
+  ]
+}

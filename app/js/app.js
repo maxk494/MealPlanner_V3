@@ -14,13 +14,12 @@ async function init() {
     window.mapping = mapping;
     window.categories = categories;
     window.allRecipes = categories.flatMap(c => c.recipes);
+    window.selected = selected;
     
-    dataQuality(window.allRecipes, window.mapping);
     renderList();
     updateBadge();
   } catch(e) {
-    document.getElementById('list-container').innerHTML =
-      '<div class="loading">Fehler beim Laden der Daten.</div>';
+    console.error('Fehler beim Laden der Daten:', e);
   }
 }
 
@@ -31,13 +30,13 @@ function saveSelected() {
 
 function updateBadge() {
   const badge = document.getElementById('header-badge');
-  badge.textContent = selected.size;
-  badge.style.display = selected.size > 0 && history[history.length-1] === 'list' ? 'block' : 'none';
+  badge.textContent = window.selected.size;
+  badge.style.display = window.selected.size > 0 && history[history.length-1] === 'list' ? 'block' : 'none';
 }
 
 function updateFab() {
   const fab = document.getElementById('fab-bar');
-  fab.className = 'fab-bar' + (selected.size > 0 ? ' visible' : '');
+  fab.className = 'fab-bar' + (window.selected.size > 0 ? ' visible' : '');
 }
 
 // ── Event Handlers ───────────────────────────────────────────

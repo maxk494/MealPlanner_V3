@@ -21,7 +21,7 @@ function goBack() {
 }
 
 function showDetail(name) {
-  window.currentRecipe = window.allRecipes.find(r => r.Rezeptname === name);
+  window.currentRecipe = window.allRecipes.find(r => r.rezeptname === name);
   if (!window.currentRecipe) return;
   
   history.push('detail');

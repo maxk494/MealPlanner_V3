@@ -1,0 +1,19 @@
+{
+  "rezeptname": "Brot mit Thunfisch-Hüttenkäse-Aufstrich",
+  "tags": [
+    "Snacks"
+  ],
+  "zubereitung": "Thunfisch abtropfen lassen und mit Hüttenkäse vermischen. Eingelegte Tomaten in kleine Stücke schneiden und untermischen. Mischung mit Salz, Pfeffer und frischem Basilikum abschmecken. Aufgeschnittenes Vollkornbrot mit der Thunfisch-Hüttenkäse-Creme bestreichen und servieren.",
+  "naehrwerte": {
+    "kalorien_kcal": 420,
+    "fett_g": 14,
+    "kohlenhydrate_g": 35,
+    "proteine_g": 38
+  },
+  "zutaten": [
+    {"zutat": "Thunfisch", "menge": 120, "einheit": "g"},
+    {"zutat": "Körniger Frischkäse", "menge": 100, "einheit": "g"},
+    {"zutat": "Tomaten (eingelegt)", "menge": 50, "einheit": "g"},
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Salat mit roten Linsen, Gurke, Tomaten und Feta",
+  "tags": [
+    "Snacks"
+  ],
+  "zubereitung": "Rote Linsen nach Packungsanleitung ca. 5-7 Minuten kochen, abgießen und abkühlen lassen. Gurke und Tomaten in kleine Würfel schneiden. Feta würfeln. Alle Zutaten in einer Schüssel vermengen. Mit Olivenöl, Zitronensaft, Salz, Pfeffer und frischen Kräutern (z.B. Petersilie) abschmecken.",
+  "naehrwerte": {
+    "kalorien_kcal": 450,
+    "fett_g": 20,
+    "kohlenhydrate_g": 35,
+    "proteine_g": 28
+  },
+  "zutaten": [
+    {"zutat": "Rote Linsen", "menge": 100, "einheit": "g"},
+    {"zutat": "Gurke", "menge": 100, "einheit": "g"},
+    {"zutat": "Tomaten", "menge": 100, "einheit": "g"},
+    {"zutat": "Feta", "menge": 100, "einheit": "g"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "rezeptname": "Curry mit Belugalinsen und Süßkartoffeln",
+  "tags": [
+    "MealPrep (TK)"
+  ],
+  "zubereitung": "Zwiebel, Knoblauch schälen und hacken. Möhre schälen und würfeln. Kokosöl in einem Topf erhitzen, Zwiebel, Knoblauch und Möhre 1–2 Min. andünsten. Currypaste zugeben und kurz anschwitzen. Belugalinsen zugeben, mit stückigen Tomaten, Kokosmilch und Gemüsebrühe ablöschen. Ca. 30 Min. leicht köcheln lassen, dabei nach und nach restliche Brühe zugeben. Süßkartoffel schälen, würfeln und nach ca. 10 Min. mitgaren. Zum Schluss Limettensaft, Salz und Pfeffer einrühren.",
+  "naehrwerte": {
+    "kalorien_kcal": 850,
+    "fett_g": 28,
+    "kohlenhydrate_g": 105,
+    "proteine_g": 38
+  },
+  "zutaten": [
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Knoblauch", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Möhren", "menge": 100, "einheit": "g"},
+    {"zutat": "Kokosöl", "menge": 1, "einheit": "EL"},
+    {"zutat": "Rote Currypaste", "menge": 1, "einheit": "TL"},
+    {"zutat": "Belugalinsen", "menge": 120, "einheit": "g"},
+    {"zutat": "Tomaten (stückig)", "menge": 100, "einheit": "g"},
+    {"zutat": "Kokosmilch", "menge": 150, "einheit": "ml"},
+    {"zutat": "Gemüsebrühe", "menge": 150, "einheit": "ml"},
+    {"zutat": "Süßkartoffel", "menge": 200, "einheit": "g"},
+    {"zutat": "Limettensaft", "menge": 2, "einheit": "EL"}
+  ]
+}

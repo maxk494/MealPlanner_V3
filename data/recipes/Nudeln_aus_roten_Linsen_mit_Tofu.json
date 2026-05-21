@@ -1,0 +1,22 @@
+{
+  "rezeptname": "Nudeln aus roten Linsen mit Tofu",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Pasta kochen (10–12 Min). Tofu würfeln, mit Cashewkernen anbraten (6–8 Min) und zur Seite stellen. Paprika, Lauch und Zuckerschoten in restlichem Öl anbraten (5–6 Min). Mit Kokosmilch ablöschen und mit Curry, Salz, Pfeffer würzen. Alles vermengen und anrichten.",
+  "naehrwerte": {
+    "kalorien_kcal": 1000,
+    "fett_g": 40,
+    "kohlenhydrate_g": 80,
+    "proteine_g": 52
+  },
+  "zutaten": [
+    {"zutat": "Rote-Linsen Nudeln", "menge": 100, "einheit": "g"},
+    {"zutat": "Tofu", "menge": 200, "einheit": "g"},
+    {"zutat": "Cashews", "menge": 30, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zuckerschoten", "menge": 80, "einheit": "g"},
+    {"zutat": "Lauch", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Kokosmilch", "menge": 150, "einheit": "ml"}
+  ]
+}

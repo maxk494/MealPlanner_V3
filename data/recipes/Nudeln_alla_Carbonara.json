@@ -1,0 +1,19 @@
+{
+  "rezeptname": "Nudeln alla Carbonara",
+  "tags": [
+    "Fine Dining"
+  ],
+  "zubereitung": "Spaghetti kochen (10–12 Min). Speckwürfel andünsten (5–7 Min). Eigelb mit Käse verrühren. Nudeln mit Speck mischen, vom Herd ziehen, Eimischung unterheben.",
+  "naehrwerte": {
+    "kalorien_kcal": 900,
+    "fett_g": 38,
+    "kohlenhydrate_g": 90,
+    "proteine_g": 48
+  },
+  "zutaten": [
+    {"zutat": "Vollkornnudeln", "menge": 110, "einheit": "g"},
+    {"zutat": "Speck", "menge": 30, "einheit": "g"},
+    {"zutat": "Parmesan", "menge": 30, "einheit": "g"},
+    {"zutat": "Eier", "menge": 3, "einheit": "Stk"}
+  ]
+}

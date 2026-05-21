@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Brot mit Lachs und Avocado",
+  "tags": [
+    "Brotzeit"
+  ],
+  "zubereitung": "Avocado halbieren, Kern entfernen und Fruchtfleisch mit einer Gabel zu einer cremigen Masse zerdrücken. Mit Zitronensaft abschmecken. Vollkornbrot toasten (2–3 Min.). Avocadomasse gleichmäßig auf beiden Scheiben verteilen. Räucherlachs darauflegen. Rote Zwiebel in dünne Ringe schneiden und darüber verteilen. Mit etwas frisch gemahlenem Pfeffer abschließen.",
+  "naehrwerte": {
+    "kalorien_kcal": 540,
+    "fett_g": 28,
+    "kohlenhydrate_g": 38,
+    "proteine_g": 31
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Räucherlachs", "menge": 100, "einheit": "g"},
+    {"zutat": "Avocado", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"}
+  ]
+}

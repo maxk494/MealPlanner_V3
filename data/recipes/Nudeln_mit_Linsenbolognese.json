@@ -1,0 +1,23 @@
+{
+  "rezeptname": "Linsenbolognese",
+  "tags": [
+    "MealPrep (TK)"
+  ],
+  "zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Suppengrün klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren (Nudeln 10–12 Min. kochen).",
+
+  "naehrwerte": {
+    "kalorien_kcal": 960,
+    "fett_g": 18,
+    "kohlenhydrate_g": 120,
+    "proteine_g": 50
+  },
+  "zutaten": [
+    {"zutat": "Rote Linsen", "menge": 120, "einheit": "g"},
+    {"zutat": "Vollkornnudeln", "menge": 100, "einheit": "g"},
+    {"zutat": "Suppengrün", "menge": 200, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Knoblauch", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Tomaten (stückig)", "menge": 400, "einheit": "g"},
+    {"zutat": "Tomatenmark", "menge": 2, "einheit": "EL"}
+  ]
+}

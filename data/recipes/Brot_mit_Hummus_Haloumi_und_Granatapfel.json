@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Brot mit Hummus, Haloumi und Granatapfel",
+  "tags": [
+    "Brotzeit", "Basis_Hummus"
+  ],
+  "zubereitung": "Haloumi in ca. 5 mm dicke Scheiben schneiden. In einer beschichteten Pfanne ohne Fett bei mittlerer bis hoher Hitze von beiden Seiten goldbraun grillen (je 2–3 Min.). Vollkornbrot toasten (2–3 Min.). Hummus gleichmäßig auf beiden Scheiben verteilen. Haloumi darauflegen. Granatapfelkerne darüber streuen. Mit frischer Minze und einem Spritzer Zitronensaft abschließen.",
+  "naehrwerte": {
+    "kalorien_kcal": 580,
+    "fett_g": 30,
+    "kohlenhydrate_g": 46,
+    "proteine_g": 30
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Haloumi", "menge": 80, "einheit": "g"},
+    {"zutat": "Hummus", "menge": 1, "einheit": "EL"},
+    {"zutat": "Granatapfelkerne", "menge": 40, "einheit": "g"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"}
+  ]
+}

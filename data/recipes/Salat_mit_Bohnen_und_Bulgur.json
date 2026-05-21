@@ -1,0 +1,26 @@
+{
+  "rezeptname": "Salat mit Bohnen und Bulgur",
+  "tags": [
+    "MealPrep (KS)"
+  ],
+  "zubereitung": "Die Gemüsebrühe aufkochen und den Bulgur bei verringerter Hitze quellen lassen (15 Min.). Paprika und Zwiebeln würfeln. Bohnen und Mais abspülen. Feta würfeln. Für das Dressing Olivenöl, Zitronensaft und Senf verquirlen. Knoblauch klein hacken und dazugeben. Mit Salz und Pfeffer würzen. Den Salat vor dem Servieren 30 Min. im Kühlschrank ziehen lassen.",
+  "naehrwerte": {
+    "kalorien_kcal": 900,
+    "fett_g": 32,
+    "kohlenhydrate_g": 115,
+    "proteine_g": 44
+  },
+  "zutaten": [
+    {"zutat": "Gemüsebrühe", "menge": 200, "einheit": "ml"},
+    {"zutat": "Bulgur", "menge": 100, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Weiße Bohnen", "menge": 100, "einheit": "g"},
+    {"zutat": "Kidneybohnen", "menge": 100, "einheit": "g"},
+    {"zutat": "Mais", "menge": 100, "einheit": "g"},
+    {"zutat": "Feta", "menge": 60, "einheit": "g"},
+    {"zutat": "Zitronensaft", "menge": 2, "einheit": "EL"},
+    {"zutat": "Senf", "menge": 1, "einheit": "TL"},
+    {"zutat": "Knoblauch", "menge": 1, "einheit": "Stk"}
+  ]
+}

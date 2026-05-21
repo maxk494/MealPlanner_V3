@@ -1,0 +1,22 @@
+{
+  "rezeptname": "Granola",
+  "tags": [
+    "Frühstück"
+  ],
+  "zubereitung": "Backofen auf 180 °C Ober-/Unterhitze vorheizen und ein Blech mit Backpapier auslegen. Haferflocken, Nüsse, Kürbiskerne, Leinsamen, Cranberries und Zimt in einer großen Schüssel vermengen. Kokosöl mit Honig und Erdnussbutter in einem kleinen Topf bei niedriger Hitze schmelzen lassen, gut umrühren und leicht abkühlen lassen. Die flüssige Mischung über die trockenen Zutaten geben und gründlich vermengen, bis alles gleichmäßig benetzt ist. Die Masse gleichmäßig auf dem Blech verteilen und leicht andrücken. Im Ofen 20 Minuten goldbraun backen, dabei nach 10 Minuten einmal umrühren. Nach dem Backen vollständig auskühlen lassen und in einem luftdichten Behälter aufbewahren.",
+  "naehrwerte": {
+    "kalorien_kcal": 1750,
+    "fett_g": 90,
+    "kohlenhydrate_g": 170,
+    "proteine_g": 45
+  },
+  "zutaten": [
+    {"zutat": "Haferflocken", "menge": 300, "einheit": "g"},
+    {"zutat": "Nussmix", "menge": 50, "einheit": "g"},
+    {"zutat": "Cranberries", "menge": 30, "einheit": "g"},
+    {"zutat": "Kokosöl", "menge": 2, "einheit": "EL"},
+    {"zutat": "Honig", "menge": 1, "einheit": "TL"},
+    {"zutat": "Erdnussmus", "menge": 20, "einheit": "g"},
+    {"zutat": "Zimt", "menge": 1, "einheit": "TL"}
+  ]
+}

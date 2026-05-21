@@ -1,0 +1,25 @@
+{
+  "rezeptname": "Pilz-Pfanne mit Buchweizen und Ei",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Buchweizen in leicht gesalzenem Wasser kochen (12–15 Min). Kräuterseitlinge in grobe Stücke schneiden, Champignons vierteln. Zwiebel und Knoblauch würfeln. Butter und Olivenöl in einer großen Pfanne erhitzen, Zwiebel und Knoblauch anschwitzen (2–3 Min). Pilze bei hoher Hitze anbraten, bis sie goldbraun sind (8–10 Min) – nicht zu früh rühren. Spinat unterheben und zusammenfallen lassen (2–3 Min). Eier verquirlen, über die Pfanne geben und bei mittlerer Hitze stocken lassen (3–4 Min). Buchweizen unterheben, mit Parmesan bestreuen und Walnüsse darübergeben.",
+  "naehrwerte": {
+    "kalorien_kcal": 976,
+    "fett_g": 50,
+    "kohlenhydrate_g": 73,
+    "proteine_g": 60
+  },
+  "zutaten": [
+    {"zutat": "Kräuterseitlinge", "menge": 200, "einheit": "g"},
+    {"zutat": "Champignons", "menge": 150, "einheit": "g"},
+    {"zutat": "Buchweizen", "menge": 70, "einheit": "g"},
+    {"zutat": "Eier", "menge": 3, "einheit": "Stk"},
+    {"zutat": "Blattspinat", "menge": 100, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Knoblauch", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Parmesan", "menge": 25, "einheit": "g"},
+    {"zutat": "Butter", "menge": 10, "einheit": "g"},
+    {"zutat": "Walnüsse", "menge": 15, "einheit": "g"}
+  ]
+}

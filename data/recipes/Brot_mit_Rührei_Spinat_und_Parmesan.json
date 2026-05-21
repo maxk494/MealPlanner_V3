@@ -1,0 +1,19 @@
+{
+  "rezeptname": "Brot mit Rührei, Spinat und Parmesan",
+  "tags": [
+    "Brotzeit"
+  ],
+  "zubereitung": "Tiefgekühlten Spinat auftauen und gut ausdrücken. Eier in einer Schüssel verquirlen. Butter in einer Pfanne bei mittlerer Hitze schmelzen (1 Min.), Spinat kurz miterhitzen (2 Min.). Eier zugeben und bei niedriger Hitze unter ständigem Rühren cremig stocken lassen (3–4 Min.). Parmesan unterrühren. Vollkornbrot toasten (2–3 Min.) und Rührei darauf anrichten.",
+  "naehrwerte": {
+    "kalorien_kcal": 560,
+    "fett_g": 32,
+    "kohlenhydrate_g": 36,
+    "proteine_g": 35
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Eier", "menge": 3, "einheit": "Stk"},
+    {"zutat": "Blattspinat (TK)", "menge": 60, "einheit": "g"},
+    {"zutat": "Parmesan", "menge": 20, "einheit": "g"}
+  ]
+}

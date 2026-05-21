@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Brot mit Hüttenkäse, Walnüssen und Feige",
+  "tags": [
+    "Brotzeit"
+  ],
+  "zubereitung": "Vollkornbrot toasten (2–3 Min.). Hüttenkäse gleichmäßig auf beiden Scheiben verteilen. Walnüsse grob hacken. Feige in dünne Scheiben schneiden und auf dem Hüttenkäse anrichten. Walnüsse darüber streuen und mit einem Teelöffel Honig beträufeln.",
+  "naehrwerte": {
+    "kalorien_kcal": 490,
+    "fett_g": 22,
+    "kohlenhydrate_g": 44,
+    "proteine_g": 27
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Körniger Frischkäse", "menge": 150, "einheit": "g"},
+    {"zutat": "Walnüsse", "menge": 25, "einheit": "g"},
+    {"zutat": "Feigen", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Honig", "menge": 1, "einheit": "TL"}
+  ]
+}

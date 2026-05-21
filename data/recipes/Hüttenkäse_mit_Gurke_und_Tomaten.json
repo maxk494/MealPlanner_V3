@@ -1,0 +1,18 @@
+{
+  "rezeptname": "Hüttenkäse mit Gurke und Tomaten",
+  "tags": [
+    "Snacks"
+  ],
+  "zubereitung": "Hüttenkäse mit Gurke und Tomaten vermischen.",
+  "naehrwerte": {
+    "kalorien_kcal": 350,
+    "fett_g": 10,
+    "kohlenhydrate_g": 20,
+    "proteine_g": 30
+  },
+  "zutaten": [
+    {"zutat": "Körniger Frischkäse", "menge": 150, "einheit": "g"},
+    {"zutat": "Gurke", "menge": 50, "einheit": "g"},
+    {"zutat": "Tomaten", "menge": 50, "einheit": "g"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "rezeptname": "Quiche mit Spinat",
+  "tags": [
+    "Fine Dining"
+  ],
+  "zubereitung": "Mengen für 12 Stücke (Portion = 2 Stücke). Mehl, Butter, 1 Ei, 2 EL Wasser und Salz mit dem Knethaken zu Mürbeteig verarbeiten. Zu einer Kugel formen, in Frischhaltefolie wickeln und 30 Min. in den Kühlschrank legen. Spinat und Knoblauch erhitzen, bis der Spinat zusammengefallen ist (5–7 Min). Mit Salz, Pfeffer und Muskat würzen. Spinat gut ausdrücken. Teig rund ausrollen und auf dem Boden einer gefetteten Quiche-Form auslegen. Teigboden mit Gabel einstechen und mit Semmelbröseln bestreuen. Tomaten und Spinat gleichmäßig verteilen. Milch, Creme fraiche und 4 Eier verrühren, mit Salz und Pfeffer würzen und auf dem Gemüse verteilen. Mit Käse bestreuen und bei 200 Grad Umluft 40 Min. backen.",
+  "naehrwerte": {
+    "kalorien_kcal": 860,
+    "fett_g": 48,
+    "kohlenhydrate_g": 55,
+    "proteine_g": 40
+  },
+  "zutaten": [
+    {"zutat": "Mehl", "menge": 40, "einheit": "g"},
+    {"zutat": "Butter", "menge": 20, "einheit": "g"},
+    {"zutat": "Eier", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Blattspinat", "menge": 40, "einheit": "g"},
+    {"zutat": "Tomaten", "menge": 25, "einheit": "g"},
+    {"zutat": "Milch", "menge": 33, "einheit": "ml"},
+    {"zutat": "Creme fraiche", "menge": 33, "einheit": "g"},
+    {"zutat": "Streukäse", "menge": 16, "einheit": "g"}
+  ]
+}

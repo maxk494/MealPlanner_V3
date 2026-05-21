@@ -1,0 +1,21 @@
+{
+  "rezeptname": "Chili sin Carne",
+  "tags": [
+    "MealPrep (TK)"
+  ],
+  "zubereitung": "Möhren und Paprika klein schneiden, in Öl ca. 5 Min. andünsten. Kidneybohnen, Mais und stückige Tomaten hinzufügen. Mit Gewürzen abschmecken und ca. 20 Min. köcheln lassen. Mit gekochtem Vollkornreis servieren (Reis 25–30 Min. kochen).",
+  "naehrwerte": {
+    "kalorien_kcal": 840,
+    "fett_g": 18,
+    "kohlenhydrate_g": 125,
+    "proteine_g": 34
+  },
+  "zutaten": [
+    {"zutat": "Kidneybohnen", "menge": 200, "einheit": "g"},
+    {"zutat": "Mais", "menge": 100, "einheit": "g"},
+    {"zutat": "Möhren", "menge": 120, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Tomaten (stückig)", "menge": 300, "einheit": "g"},
+    {"zutat": "Vollkornreis", "menge": 90, "einheit": "g"}
+  ]
+}

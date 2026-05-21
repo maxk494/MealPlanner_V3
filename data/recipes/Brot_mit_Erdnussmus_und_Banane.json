@@ -1,0 +1,18 @@
+{
+  "rezeptname": "Brot mit Erdnussmus und Banane",
+  "tags": [
+    "Snacks"
+  ],
+  "zubereitung": "Vollkornbrot mit Erdnussmus bestreichen und mit Banane vervollständigen.",
+  "naehrwerte": {
+    "kalorien_kcal": 475,
+    "fett_g": 17,
+    "kohlenhydrate_g": 65,
+    "proteine_g": 16
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Erdnussmus", "menge": 30, "einheit": "g"},
+    {"zutat": "Bananen", "menge": 1, "einheit": "Stk"}
+  ]
+}

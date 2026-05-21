@@ -9,19 +9,23 @@ function showToast(msg) {
 function copyList() {
   const selected = new Set(JSON.parse(localStorage.getItem('selected') || '[]'));
   const persons = parseInt(localStorage.getItem('persons') || '2');
-  const selectedRecipes = window.allRecipes.filter(r => selected.has(r.Rezeptname));
+  const selectedRecipes = window.allRecipes.filter(r => selected.has(r.rezeptname));
   
   const totals = {};
   selectedRecipes.forEach(r => {
-    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, zutatData]) => {
-      const amount = zutatData.menge;
-      const unit = zutatData.einheit;
+    r.zutaten.forEach(ing => {
+      const zutat = ing.zutat;
+      const amount = ing.menge;
+      const unit = ing.einheit;
       if (totals[zutat]) { totals[zutat].amount += amount * persons; }
       else { totals[zutat] = { amount: amount * persons, unit }; }
     });
   });
 
-  let text = `Einkaufsliste für ${persons} Person${persons > 1 ? 'en' : ''}\n${'='.repeat(30)}\n`;
+  let text = `\nAusgewählte Rezepte\n${'='.repeat(30)}\n`;
+  selectedRecipes.forEach((r, i) => { text += ` [${i+1}] ${r.rezeptname}\n`; });
+  
+  text +=`\nEinkaufsliste für ${persons} Person${persons > 1 ? 'en' : ''}\n${'='.repeat(30)}\n`;
   const byCategory = {};
   const uncategorized = {};
   Object.entries(totals).forEach(([zutat, data]) => {
@@ -41,12 +45,9 @@ function copyList() {
     text += `\n${cat === '__rest__' ? 'Sonstiges' : cat}:\n${'-'.repeat(30)}\n`;
     Object.entries(items).sort((a,b) => a[0].localeCompare(b[0])).forEach(([z, d]) => {
       const amt = Number.isInteger(d.amount) ? d.amount : parseFloat(d.amount.toFixed(1));
-      text += ` [ ] ${z}: ${amt} ${d.unit}\n`;
+      text += ` ${z}: ${amt} ${d.unit} | \n`;
     });
   });
-
-  text += `\nAusgewählte Rezepte\n${'='.repeat(30)}\n`;
-  selectedRecipes.forEach((r, i) => { text += ` [${i+1}] ${r.Rezeptname}\n`; });
 
   navigator.clipboard.writeText(text).then(() => showToast('Liste kopiert ✓')).catch(() => showToast('Kopieren fehlgeschlagen'));
 }

@@ -1,0 +1,25 @@
+{
+  "rezeptname": "Gemüse-Döner",
+  "tags": [
+    "Daily", "Basis_Ofengemüse"
+  ],
+  "zubereitung": "Knoblauch würfeln und mit Joghurt, Salz und Pfeffer verrühren. Möhren hobeln und mit Pfeffer, Essig und Öl mischen. Zwiebel in Ringe schneiden. Das Innere der Zucchini entfernen, würfeln und anbraten (5–6 Min). Vollkorn-Fladenbrot in der Pfanne rösten (2–3 Min). Alle Zutaten im Fladenbrot anrichten.",
+  "naehrwerte": {
+    "kalorien_kcal": 920,
+    "fett_g": 36,
+    "kohlenhydrate_g": 110,
+    "proteine_g": 42
+  },
+  "zutaten": [
+    {"zutat": "Fladenbrot", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Knoblauch", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Möhren", "menge": 120, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Salat", "menge": 50, "einheit": "g"},
+    {"zutat": "Tomaten", "menge": 100, "einheit": "g"},
+    {"zutat": "Zucchini", "menge": 120, "einheit": "g"},
+    {"zutat": "Feta", "menge": 80, "einheit": "g"},
+    {"zutat": "Griechischer Joghurt", "menge": 2, "einheit": "EL"},
+    {"zutat": "Hummus", "menge": 1, "einheit": "EL"}
+  ]
+}

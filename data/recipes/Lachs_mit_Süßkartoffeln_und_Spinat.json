@@ -1,0 +1,20 @@
+{
+  "rezeptname": "Lachs mit Süßkartoffeln und Spinat",
+  "tags": [
+    "Fine Dining"
+  ],
+  "zubereitung": "Süßkartoffel in Würfel schneiden und in Salzwasser garen (15–20 Min.). Das Lachsfilet von beiden Seiten anbraten (je 3–4 Min.). Blattspinat waschen und mit 50 ml Wasser, Salz und Butter im Topf schwenken (3–4 Min.). Mit Sour Cream, Lachs, Süßkartoffel und Zitrone auf dem Teller anrichten.",
+  "naehrwerte": {
+    "kalorien_kcal": 820,
+    "fett_g": 46,
+    "kohlenhydrate_g": 55,
+    "proteine_g": 48
+  },
+  "zutaten": [
+    {"zutat": "Lachs", "menge": 200, "einheit": "g"},
+    {"zutat": "Süßkartoffel", "menge": 300, "einheit": "g"},
+    {"zutat": "Blattspinat", "menge": 100, "einheit": "g"},
+    {"zutat": "Sour Cream", "menge": 2, "einheit": "EL"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"}
+  ]
+}

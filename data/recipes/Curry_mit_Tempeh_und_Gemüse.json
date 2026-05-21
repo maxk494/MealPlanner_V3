@@ -1,0 +1,26 @@
+{
+  "rezeptname": "Curry mit Tempeh und Gemüse",
+  "tags": [
+    "MealPrep (TK)"
+  ],
+  "zubereitung": "Tempeh in Würfel schneiden. Tempeh, Möhren, Zucchini und Zwiebeln anbraten (6–8 Min). Rote Curry-Paste hinzugeben und kurz mitrösten (1–2 Min). Mit Gemüsebrühe und Kokosmilch ablöschen. Brokkoli und Paprika hinzugeben und köcheln lassen (20 Min). Vollkornreis separat kochen (25–30 Min) und zum Curry servieren. Alternativ mit Tofu/Hähnchen und Soja-Erdnusssauce möglich.",
+  "naehrwerte": {
+    "kalorien_kcal": 980,
+    "fett_g": 32,
+    "kohlenhydrate_g": 90,
+    "proteine_g": 48
+  },
+  "zutaten": [
+    {"zutat": "Tempeh", "menge": 200, "einheit": "g"},
+    {"zutat": "Vollkornreis", "menge": 80, "einheit": "g"},
+    {"zutat": "Kokosmilch", "menge": 150, "einheit": "ml"},
+    {"zutat": "Gemüsebrühe", "menge": 150, "einheit": "ml"},
+    {"zutat": "Rote Currypaste", "menge": 2, "einheit": "TL"},
+    {"zutat": "Möhren", "menge": 120, "einheit": "g"},
+    {"zutat": "Zucchini", "menge": 150, "einheit": "g"},
+    {"zutat": "Brokkoli", "menge": 150, "einheit": "g"},
+    {"zutat": "Kartoffel", "menge": 100, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"}
+  ]
+}

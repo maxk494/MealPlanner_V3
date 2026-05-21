@@ -1,0 +1,19 @@
+{
+  "rezeptname": "Griechischer Joghurt mit Walnüssen und Honig",
+  "tags": [
+    "Snacks"
+  ],
+  "zubereitung": "Griechischen Joghurt in eine Schale geben, Walnüsse grob hacken und darüberstreuen. Mit etwas Honig beträufeln. Beeren hinzugeben.",
+  "naehrwerte": {
+    "kalorien_kcal": 400,
+    "fett_g": 16,
+    "kohlenhydrate_g": 30,
+    "proteine_g": 28
+  },
+  "zutaten": [
+    {"zutat": "Griechischer Joghurt", "menge": 2, "einheit": "EL"},
+    {"zutat": "Walnüsse", "menge": 25, "einheit": "g"},
+    {"zutat": "Honig", "menge": 1, "einheit": "TL"},
+    {"zutat": "Beeren (TK)", "menge": 50, "einheit": "g"}
+  ]
+}

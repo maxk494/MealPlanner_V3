@@ -1,0 +1,19 @@
+{
+  "rezeptname": "Edamame mit Sesam und Sojasoße",
+  "tags": [
+    "Snacks"
+  ],
+  "zubereitung": "Tiefgekühlte Edamame (in der Schale oder geschält) in kochendem Salzwasser 4–5 Minuten kochen. Abgießen und kurz abkühlen lassen. Mit Sojasoße beträufeln und gerösteten Sesam darüber streuen. Optional etwas Sesamöl hinzufügen.",
+  "naehrwerte": {
+    "kalorien_kcal": 380,
+    "fett_g": 14,
+    "kohlenhydrate_g": 24,
+    "proteine_g": 29
+  },
+  "zutaten": [
+    {"zutat": "Edamame (TK)", "menge": 200, "einheit": "g"},
+    {"zutat": "Sojasauce", "menge": 1, "einheit": "EL"},
+    {"zutat": "Sesam", "menge": 10, "einheit": "g"},
+    {"zutat": "Sesamöl", "menge": 1, "einheit": "TL"}
+  ]
+}

@@ -10,8 +10,7 @@ function renderList() {
     div.className = 'category';
     div.innerHTML = `
       <div class="category-header" onclick="toggleCategory(this)">
-        <span class="category-title">
-          ${catEmoji(cat.label)} ${cat.label}
+        <span class="category-title">🍲 ${cat.label}
           <span class="category-count">${cat.recipes.length}</span>
         </span>
         <span class="category-arrow">▾</span>
@@ -24,28 +23,23 @@ function renderList() {
   updateFab();
 }
 
-function catEmoji(label) {
-  const map = { 'Mealprep':'🥡', 'Brotzeit':'🍞', 'Fine Dining':'🍽️', 'Snacks':'🥜', 'Frühstück':'🌅', 'Backen':'🧁' };
-  return map[label] || '🍲';
-}
-
 function recipeRow(r) {
   const selected = new Set(JSON.parse(localStorage.getItem('selected') || '[]'));
-  const isChecked = selected.has(r.Rezeptname);
+  const isChecked = selected.has(r.rezeptname);
   return `
     <div class="recipe-row">
-      <div class="recipe-check" onclick="toggleSelect(event, '${esc(r.Rezeptname)}')">
-        <div class="checkbox ${isChecked ? 'checked' : ''}" id="cb-${esc(r.Rezeptname)}"></div>
+      <div class="recipe-check" onclick="toggleSelect(event, '${esc(r.rezeptname)}')">
+        <div class="checkbox ${isChecked ? 'checked' : ''}" id="cb-${esc(r.rezeptname)}"></div>
       </div>
-      <div class="recipe-info" onclick="showDetail('${esc(r.Rezeptname)}')">
-        <div class="recipe-name">${r.Rezeptname}</div>
-        <div class="recipe-macros">${r.Kalorien} kcal · ${r.Proteine}g Protein</div>
+      <div class="recipe-info" onclick="showDetail('${esc(r.rezeptname)}')">
+        <div class="recipe-name">${r.rezeptname}</div>
+        <div class="recipe-macros">${r.naehrwerte.kalorien_kcal} kcal · ${r.naehrwerte.proteine_g}g Protein</div>
       </div>
-      <div class="recipe-tap" onclick="showDetail('${esc(r.Rezeptname)}')">›</div>
+      <div class="recipe-tap" onclick="showDetail('${esc(r.rezeptname)}')">›</div>
     </div>`;
 }
 
-function esc(s) { return s.replace(/'/g, "\\'"); }
+function esc(s) { return s ? s.replace(/'/g, "\\'") : ''; }
 
 function toggleCategory(header) {
   header.parentElement.classList.toggle('open');
@@ -76,31 +70,31 @@ function renderDetail() {
     <div class="macro-grid">
       <div class="macro-card">
         <div class="macro-label">Kalorien</div>
-        <div class="macro-value">${r.Kalorien}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> kcal</span></div>
+        <div class="macro-value">${r.naehrwerte.kalorien_kcal}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> kcal</span></div>
       </div>
       <div class="macro-card highlight">
         <div class="macro-label">Proteine</div>
-        <div class="macro-value">${r.Proteine}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> g</span></div>
+        <div class="macro-value">${r.naehrwerte.proteine_g}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> g</span></div>
       </div>
       <div class="macro-card">
         <div class="macro-label">Kohlenhydrate</div>
-        <div class="macro-value">${r.Kohlenhydrate}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> g</span></div>
+        <div class="macro-value">${r.naehrwerte.kohlenhydrate_g}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> g</span></div>
       </div>
       <div class="macro-card">
         <div class="macro-label">Fett</div>
-        <div class="macro-value">${r.Fett}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> g</span></div>
+        <div class="macro-value">${r.naehrwerte.fett_g}<span style="font-size:13px;font-weight:400;color:var(--text-muted)"> g</span></div>
       </div>
     </div>
 
     <div class="section-title">Zutaten</div>
     <ul class="ingredient-list">
-      ${Object.entries(r['Zutaten und Mengen']).map(([z, zutatData]) =>
-        `<li class="ingredient-row"><span>${z}</span><span class="ingredient-amount">${zutatData.menge} ${zutatData.einheit}</span></li>`
+      ${r.zutaten.map(ing =>
+        `<li class="ingredient-row"><span>${ing.zutat}</span><span class="ingredient-amount">${ing.menge} ${ing.einheit}</span></li>`
       ).join('')}
     </ul>
 
     <div class="section-title">Zubereitung</div>
-    <div class="instructions">${r.Zubereitung}</div>
+    <div class="instructions">${r.zubereitung}</div>
   `;
 }
 
@@ -108,14 +102,15 @@ function renderDetail() {
 function renderShopping() {
   const selected = new Set(JSON.parse(localStorage.getItem('selected') || '[]'));
   const persons = parseInt(localStorage.getItem('persons') || '2');
-  const selectedRecipes = window.allRecipes.filter(r => selected.has(r.Rezeptname));
+  const selectedRecipes = window.allRecipes.filter(r => selected.has(r.rezeptname));
 
   // Zutaten aggregieren
   const totals = {};
   selectedRecipes.forEach(r => {
-    Object.entries(r['Zutaten und Mengen']).forEach(([zutat, zutatData]) => {
-      const amount = zutatData.menge;
-      const unit = zutatData.einheit;
+    r.zutaten.forEach(ing => {
+      const zutat = ing.zutat;
+      const amount = ing.menge;
+      const unit = ing.einheit;
       if (totals[zutat]) {
         totals[zutat].amount += amount * persons;
       } else {
@@ -171,7 +166,7 @@ function renderShopping() {
 
   html += `<div class="selected-recipes">
     <div class="section-title" style="margin-top:0">Ausgewählte Rezepte</div>
-    ${selectedRecipes.map(r => `<span class="selected-recipe-chip">${r.Rezeptname}</span>`).join('')}
+    ${selectedRecipes.map(r => `<span class="selected-recipe-chip">${r.rezeptname}</span>`).join('')}
   </div>`;
 
   document.getElementById('shopping-container').innerHTML = html;
