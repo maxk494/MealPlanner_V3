@@ -1,0 +1,21 @@
+{
+  "rezeptname": "Salat mit Bulgur und Kichererbsen",
+  "tags": ["MealPrep (KS)"],
+  "zubereitung": "Bulgur mit 500 ml Wasser und Salz aufkochen, 10–15 Min. garen, abgießen und abtropfen lassen. Kichererbsen abgießen, abspülen und abtropfen lassen, zum Bulgur geben. Paprika waschen, halbieren, entkernen und fein würfeln. Gurke waschen, längs halbieren, Kerne herausschaben und Fruchtfleisch würfeln. Zwiebel schälen und in feine Ringe schneiden. Datteln in Scheiben schneiden. Alles zum Bulgur geben und mischen. Zitronenschale abreiben und Saft auspressen, mit Olivenöl verquirlen, unter den Salat rühren und mit Salz, Pfeffer und Kreuzkümmel abschmecken. Zugedeckt ca. 1 Std. kalt marinieren. Mandeln grob hacken und ohne Fett anrösten. Kräuterblättchen abzupfen und fein hacken. Feta würfeln. Alles unter den Salat heben und servieren.",
+  "naehrwerte": {
+    "kalorien_kcal": 520,
+    "fett_g": 22,
+    "kohlenhydrate_g": 58,
+    "proteine_g": 18
+  },
+  "zutaten": [
+    { "zutat": "Bulgur", "menge": 75, "einheit": "g" },
+    { "zutat": "Kichererbsen", "menge": 100, "einheit": "g" },
+    { "zutat": "Paprika", "menge": 1, "einheit": "Stk" },
+    { "zutat": "Gurke", "menge": 100, "einheit": "g" },
+    { "zutat": "Zwiebel", "menge": 1, "einheit": "Stk" },
+    { "zutat": "Datteln", "menge": 2, "einheit": "Stk" },
+    { "zutat": "Mandeln", "menge": 20, "einheit": "g" },
+    { "zutat": "Feta", "menge": 40, "einheit": "g" }
+  ]
+}
