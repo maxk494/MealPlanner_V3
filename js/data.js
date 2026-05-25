@@ -12,8 +12,8 @@ const DISPLAY_TAGS = [
 
 async function loadData() {
   const [mapRes, recipesRes] = await Promise.all([
-    fetch('../data/ingredients_mapping.json'),
-    fetch('recipes.json')
+    fetch('./data/ingredients_mapping.json'),
+    fetch('./data/recipes.json')
   ]);
   
   const mapping = await mapRes.json();

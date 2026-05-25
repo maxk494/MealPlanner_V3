@@ -6,13 +6,16 @@ const ASSETS = [
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
-  './data/d1_zutaten_mapping.json',
-  './data/d2_mealprep.json',
-  './data/d3_snacks.json',
-  './data/d4_fruehstueck.json',
-  './data/d5_backen.json',
-  './data/d6_brotzeit.json',
-  './data/d7_finedining.json'
+  './data/ingredients_mapping.json',
+  './data/recipes.json',
+  './css/main.css',
+  './css/components.css',
+  './css/responsive.css',
+  './js/data.js',
+  './js/app.js',
+  './js/ui.js',
+  './js/navigation.js',
+  './js/utils.js'
 ];
 
 // Install: alle Dateien cachen

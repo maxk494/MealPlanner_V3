@@ -8,8 +8,9 @@ from check_units import check_unit_consistency
 
 def consolidate_recipes():
     """Consolidate all recipe files into a single recipes.json"""
-    recipes_dir = '../data/recipes'
-    output_file = '../app/recipes.json'
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    recipes_dir = os.path.join(base_dir, 'data', 'recipes')
+    output_file = os.path.join(base_dir, 'data', 'recipes.json')
     
     all_recipes = []
     
