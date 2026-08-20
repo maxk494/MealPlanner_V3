@@ -1,0 +1,21 @@
+{
+  "rezeptname": "Bowl mit geröstetem Kürbis",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Ofen auf 200 °C (Umluft) vorheizen. Hokkaido-Kürbis würfeln (Schale kann dranbleiben), mit etwas Olivenöl, Salz und Pfeffer vermengen und auf einem Blech verteilen. Im Ofen rösten. Kichererbsen abspülen, mit Gewürzen (z. B. Paprikapulver, Kreuzkümmel) vermengen und zum Kürbis aufs Blech geben, gemeinsam weiterrösten. Quinoa in Wasser kochen, bis sie weich ist. Kürbiskerne in einer Pfanne ohne Fett kurz rösten, bis sie leicht duften. Kürbis, Kichererbsen und Quinoa in einer Bowl anrichten, mit Griechischem Joghurt toppen, Kürbiskerne darüberstreuen und nach Belieben mit Zitronensaft beträufeln.",
+  "naehrwerte": {
+    "kalorien_kcal": 970,
+    "fett_g": 27,
+    "kohlenhydrate_g": 125,
+    "proteine_g": 48
+  },
+  "zutaten": [
+    {"zutat": "Hokkaido-Kürbis", "menge": 250, "einheit": "g"},
+    {"zutat": "Kichererbsen", "menge": 200, "einheit": "g"},
+    {"zutat": "Quinoa", "menge": 90, "einheit": "g"},
+    {"zutat": "Griechischer Joghurt", "menge": 10, "einheit": "EL"},
+    {"zutat": "Kürbiskerne", "menge": 20, "einheit": "g"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"}
+  ]
+}

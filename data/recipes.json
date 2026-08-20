@@ -105,6 +105,71 @@
     ]
   },
   {
+    "rezeptname": "Bowl_Kimchi_Bibimbap",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Vollkornreis in Wasser 25 Minuten kochen. Tofu würfeln und in einer Pfanne knusprig anbraten (6–8 Minuten), beiseitestellen. Möhren in feine Streifen schneiden und 3–4 Minuten anbraten. Zucchini in Streifen schneiden und 3–4 Minuten separat anbraten. Spinat kurz zusammenfallen lassen (2 Minuten). Eier als Spiegeleier in etwas Sesamöl 3–4 Minuten braten, bis das Eiweiß gestockt und das Eigelb noch weich ist. Gekochten Reis in eine Bowl geben, Möhren, Zucchini, Spinat, Tofu und Kimchi darauf anrichten. Spiegelei obenauf setzen, mit Sojasauce und restlichem Sesamöl beträufeln und mit Sesam bestreuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 900,
+      "fett_g": 41,
+      "kohlenhydrate_g": 89,
+      "proteine_g": 45
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornreis",
+        "menge": 90,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tofu",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zucchini",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Blattspinat",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kimchi",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sesamöl",
+        "menge": 3,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Sesam",
+        "menge": 3,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Bowl mit Hummus und Bulgur",
     "tags": [
       "Daily",
@@ -181,42 +246,47 @@
     ]
   },
   {
-    "rezeptname": "Brot mit Erdnussbutter und Banane",
+    "rezeptname": "Bowl mit geröstetem Kürbis",
     "tags": [
-      "Brotzeit"
+      "Daily"
     ],
-    "zubereitung": "Vollkornbrot toasten (2–3 Min.). Mandelmus gleichmäßig auf beiden Scheiben verteilen. Banane in Scheiben schneiden und darauflegen. Chiasamen gleichmäßig darüber streuen. Mit einem Teelöffel Honig beträufeln.",
+    "zubereitung": "Ofen auf 200 °C (Umluft) vorheizen. Hokkaido-Kürbis würfeln (Schale kann dranbleiben), mit etwas Olivenöl, Salz und Pfeffer vermengen und auf einem Blech verteilen. Im Ofen rösten. Kichererbsen abspülen, mit Gewürzen (z. B. Paprikapulver, Kreuzkümmel) vermengen und zum Kürbis aufs Blech geben, gemeinsam weiterrösten. Quinoa in Wasser kochen, bis sie weich ist. Kürbiskerne in einer Pfanne ohne Fett kurz rösten, bis sie leicht duften. Kürbis, Kichererbsen und Quinoa in einer Bowl anrichten, mit Griechischem Joghurt toppen, Kürbiskerne darüberstreuen und nach Belieben mit Zitronensaft beträufeln.",
     "naehrwerte": {
-      "kalorien_kcal": 520,
-      "fett_g": 26,
-      "kohlenhydrate_g": 58,
-      "proteine_g": 16
+      "kalorien_kcal": 970,
+      "fett_g": 27,
+      "kohlenhydrate_g": 125,
+      "proteine_g": 48
     },
     "zutaten": [
       {
-        "zutat": "Vollkornbrot",
-        "menge": 2,
-        "einheit": "Scheiben"
-      },
-      {
-        "zutat": "Mandelmus",
-        "menge": 30,
+        "zutat": "Hokkaido-Kürbis",
+        "menge": 250,
         "einheit": "g"
       },
       {
-        "zutat": "Bananen",
-        "menge": 1,
-        "einheit": "Stk"
+        "zutat": "Kichererbsen",
+        "menge": 200,
+        "einheit": "g"
       },
       {
-        "zutat": "Chiasamen",
+        "zutat": "Quinoa",
+        "menge": 90,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
         "menge": 10,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Kürbiskerne",
+        "menge": 20,
         "einheit": "g"
       },
       {
-        "zutat": "Honig",
+        "zutat": "Zitronensaft",
         "menge": 1,
-        "einheit": "TL"
+        "einheit": "EL"
       }
     ]
   },
@@ -413,6 +483,36 @@
     ]
   },
   {
+    "rezeptname": "Brot mit Matjes Hausfrauenart",
+    "tags": [
+      "Brotzeit"
+    ],
+    "zubereitung": "Vollkornbrot toasten (2–3 Min.). Fertigen Matjes Hausfrauenart mit der Sauce gleichmäßig auf dem Brot verteilen und mit Frühlingszwiebeln bestreuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 520,
+      "fett_g": 32,
+      "kohlenhydrate_g": 33,
+      "proteine_g": 19
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "zutat": "Matjes Hausfrauenart",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Frühlingszwiebeln",
+        "menge": 10,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Brot mit Rührei, Spinat und Parmesan",
     "tags": [
       "Brotzeit"
@@ -450,7 +550,7 @@
   {
     "rezeptname": "Brot mit Thunfisch-Hüttenkäse-Aufstrich",
     "tags": [
-      "Snacks"
+      "Brotzeit"
     ],
     "zubereitung": "Thunfisch abtropfen lassen und mit Hüttenkäse vermischen. Eingelegte Tomaten in kleine Stücke schneiden und untermischen. Mischung mit Salz, Pfeffer und frischem Basilikum abschmecken. Aufgeschnittenes Vollkornbrot mit der Thunfisch-Hüttenkäse-Creme bestreichen und servieren.",
     "naehrwerte": {
@@ -974,6 +1074,61 @@
     ]
   },
   {
+    "rezeptname": "Matjes mit Kartoffeln und Apfel",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Kartoffeln waschen und in Salzwasser 20 Minuten kochen, bis sie weich sind. Währenddessen Rote Bete abtropfen lassen und in Scheiben schneiden, Apfel entkernen und würfeln, rote Zwiebel in feine Ringe schneiden. Matjes in mundgerechte Stücke schneiden. Joghurt mit Zitronensaft, Dill, Salz und Pfeffer zu einem Dressing verrühren. Kartoffeln abgießen, kurz ausdampfen lassen und grob vierteln. Kartoffeln, Rote Bete, Apfel und Zwiebel in einer Bowl anrichten, Matjes darauf verteilen und mit dem Dill-Joghurt-Dressing beträufeln.",
+    "naehrwerte": {
+      "kalorien_kcal": 955,
+      "fett_g": 52,
+      "kohlenhydrate_g": 90,
+      "proteine_g": 42
+    },
+    "zutaten": [
+      {
+        "zutat": "Matjes",
+        "menge": 180,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Rote Bete",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Apfel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
     "rezeptname": "Nudeln alla Carbonara",
     "tags": [
       "Fine Dining"
@@ -1063,11 +1218,11 @@
     "tags": [
       "MealPrep (TK)"
     ],
-    "zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Suppengrün klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren (Nudeln 10–12 Min. kochen).",
+    "zubereitung": "Möhren, Staudensellerie, Zwiebel und Knoblauch fein würfeln und in Öl als Sofrito andünsten, bis sie weich und leicht golden sind. Tomatenmark einrühren und kurz mitrösten, bis sich der Duft entfaltet. Mit Rotwein ablöschen und fast vollständig einkochen lassen. Rote Linsen, stückige Tomaten und Gemüsebrühe zugeben, Lorbeerblatt, Oregano und ein Stück Parmesanrinde einrühren. Zugedeckt ca. 20–25 Min. köcheln lassen, gelegentlich umrühren und bei Bedarf etwas Brühe nachgießen. Lorbeerblatt und Parmesanrinde entfernen, Sahne und Butter einrühren, bis die Sauce sämig glänzt, und mit Salz und Pfeffer abschmecken. Walnüsse unterheben oder zum Servieren darüberstreuen. Portionsweise einfrieren (bewusst etwas dünner einfrieren, da die Sauce beim Auftauen und Erhitzen weiter andickt). Zum Servieren Vollkornnudeln 10–12 Min. kochen, mit der aufgetauten und erhitzten Sauce vermengen und mit Parmesan bestreuen.",
     "naehrwerte": {
-      "kalorien_kcal": 960,
-      "fett_g": 18,
-      "kohlenhydrate_g": 120,
+      "kalorien_kcal": 1175,
+      "fett_g": 30,
+      "kohlenhydrate_g": 140,
       "proteine_g": 50
     },
     "zutaten": [
@@ -1082,19 +1237,34 @@
         "einheit": "g"
       },
       {
-        "zutat": "Suppengrün",
-        "menge": 200,
+        "zutat": "Möhren",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Staudensellerie",
+        "menge": 38,
         "einheit": "g"
       },
       {
         "zutat": "Zwiebel",
-        "menge": 1,
+        "menge": 0.5,
         "einheit": "Stk"
       },
       {
         "zutat": "Knoblauch",
-        "menge": 2,
+        "menge": 1.5,
         "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Rotwein",
+        "menge": 40,
+        "einheit": "ml"
       },
       {
         "zutat": "Tomaten (stückig)",
@@ -1102,68 +1272,23 @@
         "einheit": "g"
       },
       {
-        "zutat": "Tomatenmark",
-        "menge": 2,
-        "einheit": "EL"
-      }
-    ]
-  },
-  {
-    "rezeptname": "Nudelsalat",
-    "tags": [
-      "MealPrep (KS)"
-    ],
-    "zubereitung": "Nudeln kochen (10–12 Min). Paprika und Zwiebeln würfeln und in Balsamico-Essig 10 Min. ziehen lassen. Tomaten und Knoblauch würfeln. Kichererbsen abspülen. Pinienkerne in der Pfanne rösten (2–3 Min). Für das Dressing Essig, Senf, Pesto, Öl und Balsamico-Creme verrühren. Mit Salz und Pfeffer abschmecken. Salat mischen und mit Parmesan bestreuen.",
-    "naehrwerte": {
-      "kalorien_kcal": 940,
-      "fett_g": 36,
-      "kohlenhydrate_g": 120,
-      "proteine_g": 40
-    },
-    "zutaten": [
-      {
-        "zutat": "Vollkornnudeln",
-        "menge": 110,
-        "einheit": "g"
-      },
-      {
-        "zutat": "Paprika",
-        "menge": 1,
-        "einheit": "Stk"
-      },
-      {
-        "zutat": "Zwiebel",
-        "menge": 1,
-        "einheit": "Stk"
-      },
-      {
-        "zutat": "Tomaten",
+        "zutat": "Gemüsebrühe",
         "menge": 100,
-        "einheit": "g"
-      },
-      {
-        "zutat": "Kichererbsen",
-        "menge": 100,
-        "einheit": "g"
-      },
-      {
-        "zutat": "Pinienkerne",
-        "menge": 20,
-        "einheit": "g"
-      },
-      {
-        "zutat": "Senf",
-        "menge": 1,
-        "einheit": "TL"
-      },
-      {
-        "zutat": "Pesto",
-        "menge": 2,
-        "einheit": "EL"
+        "einheit": "ml"
       },
       {
         "zutat": "Parmesan",
-        "menge": 30,
+        "menge": 15,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sahne",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 15,
         "einheit": "g"
       }
     ]
@@ -1336,6 +1461,56 @@
         "zutat": "Streukäse",
         "menge": 16,
         "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Räuchertofu-Gulasch mit schwarzen Bohnen",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Räuchertofu in Würfel schneiden und scharf anbraten (5–6 Min.), zur Seite stellen. Zwiebel und Knoblauch würfeln und andünsten (2–3 Min.). Paprika in Streifen schneiden und mitbraten (5 Min.). Paprikapulver kurz mitrösten (1 Min.). Mit stückigen Tomaten ablöschen, schwarze Bohnen zugeben und köcheln lassen (15 Min.). Tofu unterheben und kurz erhitzen (3 Min.). Gulasch portionieren und einfrieren. Kartoffeln erst beim Servieren frisch kochen (15–18 Min.) und mit dem aufgewärmten Gulasch servieren.",
+    "naehrwerte": {
+      "kalorien_kcal": 880,
+      "fett_g": 24,
+      "kohlenhydrate_g": 110,
+      "proteine_g": 56
+    },
+    "zutaten": [
+      {
+        "zutat": "Räuchertofu",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Schwarze Bohnen",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten (stückig)",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 2,
+        "einheit": "Stk"
       }
     ]
   },
@@ -1515,6 +1690,91 @@
     ]
   },
   {
+    "rezeptname": "Salat mit Nudeln",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Nudeln in Salzwasser bewusst leicht bissfest kochen, abgießen und sofort mit etwas Olivenöl vermengen, damit sie nicht verkleben, dann abkühlen lassen. Eier hart kochen, abschrecken, schälen und vierteln. Gurke würfeln, leicht salzen und 10 Min. in einem Sieb abtropfen lassen. Tomaten halbieren, Paprika würfeln, Zwiebel fein hacken. Für das Dressing Olivenöl, Rotweinessig oder Balsamico, Senf, Honig und fein geriebenen Knoblauch verrühren, mit Salz und Pfeffer abschmecken. Pinienkerne ohne Fett rösten, bis sie duften. Nudeln mit Kichererbsen, Tomaten, Paprika, Zwiebel, sonnengetrockneten Tomaten, Oliven und Feta vermengen und mit dem Dressing mischen. Gurke, Eier, Pinienkerne und frische Kräuter erst kurz vor dem Servieren jeder Portion hinzufügen, damit sie über mehrere Tage knackig bleiben.",
+    "naehrwerte": {
+      "kalorien_kcal": 1125,
+      "fett_g": 55,
+      "kohlenhydrate_g": 100,
+      "proteine_g": 45
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kichererbsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 75,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.25,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten (eingelegt)",
+        "menge": 15,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Oliven",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Pinienkerne",
+        "menge": 15,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Senf",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 0.25,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 0.5,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
     "rezeptname": "Salat mit Thunfisch, Quinoa und Ei",
     "tags": [
       "MealPrep (KS)"
@@ -1575,6 +1835,76 @@
     ]
   },
   {
+    "rezeptname": "Salat mit Tortilla und Kidneybohnen",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Ofen auf 200 °C vorheizen. Kidneybohnen abspülen, mit Kreuzkümmel und Paprikapulver würzen. Chips auf einem Blech verteilen, Bohnen, Mais und Streukäse darüberstreuen, im Ofen überbacken (8–10 Min., bis der Streukäse geschmolzen ist). Avocado würfeln, Tomaten und Zwiebel klein schneiden, mit Limettensaft, Salz und Pfeffer mischen. Rucola waschen und auf einem Teller als Bett verteilen. Überbackene Chips-Bohnen-Mischung auf dem Rucola anrichten, mit Avocado-Mix, Joghurt und Koriander toppen.",
+    "naehrwerte": {
+      "kalorien_kcal": 1000,
+      "fett_g": 47,
+      "kohlenhydrate_g": 100,
+      "proteine_g": 46
+    },
+    "zutaten": [
+      {
+        "zutat": "Tortilla-Chips",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kidneybohnen",
+        "menge": 220,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mais",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Rucola",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Avocado",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Streukäse",
+        "menge": 45,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Limettensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Koriander",
+        "menge": 10,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Salat mit roten Linsen, Gurke, Tomaten und Feta",
     "tags": [
       "Snacks"
@@ -1611,6 +1941,86 @@
         "zutat": "Zitronensaft",
         "menge": 1,
         "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Wrap Burrito mit schwarzen Bohnen und Haloumi",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Vollkornreis in Salzwasser bei geringer Hitze kochen, bis er weich ist. Schwarze Bohnen abspülen, mit Kreuzkümmel, Paprikapulver und etwas Salz vermengen und in einem kleinen Topf erwärmen. Haloumi in Scheiben schneiden und in einer beschichteten Pfanne ohne Fett von beiden Seiten goldbraun braten. Tomate und Zwiebel fein würfeln, Avocado würfeln und mit Limettensaft beträufeln, Koriander grob hacken. Tortilla kurz in einer trockenen Pfanne erwärmen. Reis, Bohnen, Mais, Haloumi, die Avocado-Tomaten-Mischung, Streukäse, griechischen Joghurt und Jalapeños mittig auf die Tortilla geben. Seiten einklappen, von unten fest aufrollen und bei Bedarf kurz von beiden Seiten in der Pfanne anrösten, damit der Burrito zusammenhält.",
+    "naehrwerte": {
+      "kalorien_kcal": 1240,
+      "fett_g": 53,
+      "kohlenhydrate_g": 135,
+      "proteine_g": 58
+    },
+    "zutaten": [
+      {
+        "zutat": "Wrap",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Schwarze Bohnen",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornreis",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mais",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Avocado",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Haloumi",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Streukäse",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Limettensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Koriander",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Jalapeños",
+        "menge": 20,
+        "einheit": "g"
       }
     ]
   },

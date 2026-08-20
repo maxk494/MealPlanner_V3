@@ -3,12 +3,16 @@
     "Vollkornbrot",
     "Wrap",
     "Reiswaffel",
-    "Fladenbrot"
+    "Fladenbrot",
+    "Tortilla-Chips"
   ],
   "Fisch": [
     "Lachs",
     "Räuchermakrele",
-    "Räucherlachs"
+    "Räucherlachs",
+    "Räucherhering",
+    "Matjes",
+    "Matjes Hausfrauenart"
   ],
   "Fleisch": [
     "Hähnchenbrust",
@@ -16,6 +20,7 @@
   ],
   "Fleischersatz": [
     "Tofu",
+    "Räuchertofu",
     "Tempeh",
     "Falafel",
     "Haloumi"
@@ -41,6 +46,7 @@
     "Kichererbsen",
     "Kidneybohnen",
     "Weiße Bohnen",
+    "Schwarze Bohnen",
     "Mais",
     "Tomaten (stückig)",
     "Tomaten (eingelegt)",
@@ -50,7 +56,9 @@
     "Rote Bete",
     "Sardinen",
     "Kapern",
-    "Thunfisch"
+    "Thunfisch",
+    "Kimchi",
+    "Jalapeños"
   ],
   "Milchprodukte & Käse": [
     "Mandelmilch",
@@ -66,7 +74,8 @@
     "Parmesan",
     "Sour Cream",
     "Streukäse",
-    "Meerrettich"
+    "Meerrettich",
+    "Sahne"
   ],
   "Aufstriche": [
     "Erdnussmus",
@@ -101,7 +110,8 @@
     "Tahini",
     "Balsamico",
     "Senf",
-    "Pesto"
+    "Pesto",
+    "Rotwein"
   ],
   "Obst & Gemüse": [
     "Avocado",
@@ -135,7 +145,11 @@
     "Champignons",
     "Feldsalat",
     "Granatapfelkerne",
-    "Feigen"
+    "Feigen",
+    "Staudensellerie",
+    "Koriander",
+    "Hokkaido-Kürbis",
+    "Dill"
   ],
   "Tiefkühlprodukte": [
     "Spinat (TK)",

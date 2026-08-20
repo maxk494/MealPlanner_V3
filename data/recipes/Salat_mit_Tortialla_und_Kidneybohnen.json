@@ -1,0 +1,26 @@
+{
+  "rezeptname": "Salat mit Tortilla und Kidneybohnen",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Ofen auf 200 °C vorheizen. Kidneybohnen abspülen, mit Kreuzkümmel und Paprikapulver würzen. Chips auf einem Blech verteilen, Bohnen, Mais und Streukäse darüberstreuen, im Ofen überbacken (8–10 Min., bis der Streukäse geschmolzen ist). Avocado würfeln, Tomaten und Zwiebel klein schneiden, mit Limettensaft, Salz und Pfeffer mischen. Rucola waschen und auf einem Teller als Bett verteilen. Überbackene Chips-Bohnen-Mischung auf dem Rucola anrichten, mit Avocado-Mix, Joghurt und Koriander toppen.",
+  "naehrwerte": {
+    "kalorien_kcal": 1000,
+    "fett_g": 47,
+    "kohlenhydrate_g": 100,
+    "proteine_g": 46
+  },
+  "zutaten": [
+    {"zutat": "Tortilla-Chips", "menge": 50, "einheit": "g"},
+    {"zutat": "Kidneybohnen", "menge": 220, "einheit": "g"},
+    {"zutat": "Mais", "menge": 80, "einheit": "g"},
+    {"zutat": "Rucola", "menge": 50, "einheit": "g"},
+    {"zutat": "Avocado", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Streukäse", "menge": 45, "einheit": "g"},
+    {"zutat": "Griechischer Joghurt", "menge": 3, "einheit": "EL"},
+    {"zutat": "Tomaten", "menge": 100, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 0.5, "einheit": "Stk"},
+    {"zutat": "Limettensaft", "menge": 1, "einheit": "EL"},
+    {"zutat": "Koriander", "menge": 10, "einheit": "g"}
+  ]
+}

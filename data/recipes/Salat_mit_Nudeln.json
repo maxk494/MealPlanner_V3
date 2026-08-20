@@ -1,0 +1,29 @@
+{
+  "rezeptname": "Salat mit Nudeln",
+  "tags": [
+    "MealPrep (KS)"
+  ],
+  "zubereitung": "Nudeln in Salzwasser bewusst leicht bissfest kochen, abgießen und sofort mit etwas Olivenöl vermengen, damit sie nicht verkleben, dann abkühlen lassen. Eier hart kochen, abschrecken, schälen und vierteln. Gurke würfeln, leicht salzen und 10 Min. in einem Sieb abtropfen lassen. Tomaten halbieren, Paprika würfeln, Zwiebel fein hacken. Für das Dressing Olivenöl, Rotweinessig oder Balsamico, Senf, Honig und fein geriebenen Knoblauch verrühren, mit Salz und Pfeffer abschmecken. Pinienkerne ohne Fett rösten, bis sie duften. Nudeln mit Kichererbsen, Tomaten, Paprika, Zwiebel, sonnengetrockneten Tomaten, Oliven und Feta vermengen und mit dem Dressing mischen. Gurke, Eier, Pinienkerne und frische Kräuter erst kurz vor dem Servieren jeder Portion hinzufügen, damit sie über mehrere Tage knackig bleiben.",
+  "naehrwerte": {
+    "kalorien_kcal": 1125,
+    "fett_g": 55,
+    "kohlenhydrate_g": 100,
+    "proteine_g": 45
+  },
+  "zutaten": [
+    {"zutat": "Vollkornnudeln", "menge": 100, "einheit": "g"},
+    {"zutat": "Kichererbsen", "menge": 100, "einheit": "g"},
+    {"zutat": "Tomaten", "menge": 75, "einheit": "g"},
+    {"zutat": "Gurke", "menge": 50, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 0.5, "einheit": "Stk"},
+    {"zutat": "Zwiebel", "menge": 0.25, "einheit": "Stk"},
+    {"zutat": "Feta", "menge": 50, "einheit": "g"},
+    {"zutat": "Tomaten (eingelegt)", "menge": 15, "einheit": "g"},
+    {"zutat": "Oliven", "menge": 20, "einheit": "g"},
+    {"zutat": "Pinienkerne", "menge": 15, "einheit": "g"},
+    {"zutat": "Eier", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Senf", "menge": 0.5, "einheit": "TL"},
+    {"zutat": "Honig", "menge": 0.25, "einheit": "TL"},
+    {"zutat": "Knoblauch", "menge": 0.5, "einheit": "Stk"}
+  ]
+}

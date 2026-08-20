@@ -1,0 +1,23 @@
+{
+  "rezeptname": "Räuchertofu-Gulasch mit schwarzen Bohnen",
+  "tags": [
+    "MealPrep (TK)"
+  ],
+  "zubereitung": "Räuchertofu in Würfel schneiden und scharf anbraten (5–6 Min.), zur Seite stellen. Zwiebel und Knoblauch würfeln und andünsten (2–3 Min.). Paprika in Streifen schneiden und mitbraten (5 Min.). Paprikapulver kurz mitrösten (1 Min.). Mit stückigen Tomaten ablöschen, schwarze Bohnen zugeben und köcheln lassen (15 Min.). Tofu unterheben und kurz erhitzen (3 Min.). Gulasch portionieren und einfrieren. Kartoffeln erst beim Servieren frisch kochen (15–18 Min.) und mit dem aufgewärmten Gulasch servieren.",
+
+  "naehrwerte": {
+    "kalorien_kcal": 880,
+    "fett_g": 24,
+    "kohlenhydrate_g": 110,
+    "proteine_g": 56
+  },
+  "zutaten": [
+    {"zutat": "Räuchertofu", "menge": 200, "einheit": "g"},
+    {"zutat": "Schwarze Bohnen", "menge": 200, "einheit": "g"},
+    {"zutat": "Paprika", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Kartoffel", "menge": 250, "einheit": "g"},
+    {"zutat": "Tomaten (stückig)", "menge": 300, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Knoblauch", "menge": 2, "einheit": "Stk"}
+  ]
+}

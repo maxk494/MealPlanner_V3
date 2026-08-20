@@ -1,0 +1,25 @@
+{
+  "rezeptname": "Bowl_Kimchi_Bibimbap",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Vollkornreis in Wasser 25 Minuten kochen. Tofu würfeln und in einer Pfanne knusprig anbraten (6–8 Minuten), beiseitestellen. Möhren in feine Streifen schneiden und 3–4 Minuten anbraten. Zucchini in Streifen schneiden und 3–4 Minuten separat anbraten. Spinat kurz zusammenfallen lassen (2 Minuten). Eier als Spiegeleier in etwas Sesamöl 3–4 Minuten braten, bis das Eiweiß gestockt und das Eigelb noch weich ist. Gekochten Reis in eine Bowl geben, Möhren, Zucchini, Spinat, Tofu und Kimchi darauf anrichten. Spiegelei obenauf setzen, mit Sojasauce und restlichem Sesamöl beträufeln und mit Sesam bestreuen.",
+  "naehrwerte": {
+    "kalorien_kcal": 900,
+    "fett_g": 41,
+    "kohlenhydrate_g": 89,
+    "proteine_g": 45
+  },
+  "zutaten": [
+    {"zutat": "Vollkornreis", "menge": 90, "einheit": "g"},
+    {"zutat": "Tofu", "menge": 100, "einheit": "g"},
+    {"zutat": "Eier", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Möhren", "menge": 100, "einheit": "g"},
+    {"zutat": "Zucchini", "menge": 100, "einheit": "g"},
+    {"zutat": "Blattspinat", "menge": 80, "einheit": "g"},
+    {"zutat": "Kimchi", "menge": 100, "einheit": "g"},
+    {"zutat": "Sesamöl", "menge": 3, "einheit": "TL"},
+    {"zutat": "Sojasauce", "menge": 1, "einheit": "EL"},
+    {"zutat": "Sesam", "menge": 3, "einheit": "g"}
+  ]
+}

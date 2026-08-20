@@ -1,0 +1,28 @@
+{
+  "rezeptname": "Wrap Burrito mit schwarzen Bohnen und Haloumi",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Vollkornreis in Salzwasser bei geringer Hitze kochen, bis er weich ist. Schwarze Bohnen abspülen, mit Kreuzkümmel, Paprikapulver und etwas Salz vermengen und in einem kleinen Topf erwärmen. Haloumi in Scheiben schneiden und in einer beschichteten Pfanne ohne Fett von beiden Seiten goldbraun braten. Tomate und Zwiebel fein würfeln, Avocado würfeln und mit Limettensaft beträufeln, Koriander grob hacken. Tortilla kurz in einer trockenen Pfanne erwärmen. Reis, Bohnen, Mais, Haloumi, die Avocado-Tomaten-Mischung, Streukäse, griechischen Joghurt und Jalapeños mittig auf die Tortilla geben. Seiten einklappen, von unten fest aufrollen und bei Bedarf kurz von beiden Seiten in der Pfanne anrösten, damit der Burrito zusammenhält.",
+  "naehrwerte": {
+    "kalorien_kcal": 1240,
+    "fett_g": 53,
+    "kohlenhydrate_g": 135,
+    "proteine_g": 58
+  },
+  "zutaten": [
+    {"zutat": "Wrap", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Schwarze Bohnen", "menge": 150, "einheit": "g"},
+    {"zutat": "Vollkornreis", "menge": 50, "einheit": "g"},
+    {"zutat": "Mais", "menge": 60, "einheit": "g"},
+    {"zutat": "Avocado", "menge": 0.5, "einheit": "Stk"},
+    {"zutat": "Tomaten", "menge": 120, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 0.5, "einheit": "Stk"},
+    {"zutat": "Haloumi", "menge": 80, "einheit": "g"},
+    {"zutat": "Griechischer Joghurt", "menge": 3, "einheit": "EL"},
+    {"zutat": "Streukäse", "menge": 25, "einheit": "g"},
+    {"zutat": "Limettensaft", "menge": 1, "einheit": "EL"},
+    {"zutat": "Koriander", "menge": 10, "einheit": "g"},
+    {"zutat": "Jalapeños", "menge": 20, "einheit": "g"}
+  ]
+}

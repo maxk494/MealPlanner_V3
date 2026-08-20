@@ -1,0 +1,18 @@
+{
+  "rezeptname": "Brot mit Matjes Hausfrauenart",
+  "tags": [
+    "Brotzeit"
+  ],
+  "zubereitung": "Vollkornbrot toasten (2–3 Min.). Fertigen Matjes Hausfrauenart mit der Sauce gleichmäßig auf dem Brot verteilen und mit Frühlingszwiebeln bestreuen.",
+  "naehrwerte": {
+    "kalorien_kcal": 520,
+    "fett_g": 32,
+    "kohlenhydrate_g": 33,
+    "proteine_g": 19
+  },
+  "zutaten": [
+    {"zutat": "Vollkornbrot", "menge": 2, "einheit": "Scheiben"},
+    {"zutat": "Matjes Hausfrauenart", "menge": 150, "einheit": "g"},
+    {"zutat": "Frühlingszwiebeln", "menge": 10, "einheit": "g"}
+  ]
+}

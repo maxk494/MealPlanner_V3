@@ -1,0 +1,23 @@
+{
+  "rezeptname": "Matjes mit Kartoffeln und Apfel",
+  "tags": [
+    "Daily"
+  ],
+  "zubereitung": "Kartoffeln waschen und in Salzwasser 20 Minuten kochen, bis sie weich sind. Währenddessen Rote Bete abtropfen lassen und in Scheiben schneiden, Apfel entkernen und würfeln, rote Zwiebel in feine Ringe schneiden. Matjes in mundgerechte Stücke schneiden. Joghurt mit Zitronensaft, Dill, Salz und Pfeffer zu einem Dressing verrühren. Kartoffeln abgießen, kurz ausdampfen lassen und grob vierteln. Kartoffeln, Rote Bete, Apfel und Zwiebel in einer Bowl anrichten, Matjes darauf verteilen und mit dem Dill-Joghurt-Dressing beträufeln.",
+  "naehrwerte": {
+    "kalorien_kcal": 955,
+    "fett_g": 52,
+    "kohlenhydrate_g": 90,
+    "proteine_g": 42
+  },
+  "zutaten": [
+    {"zutat": "Matjes", "menge": 180, "einheit": "g"},
+    {"zutat": "Kartoffel", "menge": 300, "einheit": "g"},
+    {"zutat": "Rote Bete", "menge": 100, "einheit": "g"},
+    {"zutat": "Apfel", "menge": 1, "einheit": "Stk"},
+    {"zutat": "Griechischer Joghurt", "menge": 3, "einheit": "EL"},
+    {"zutat": "Dill", "menge": 1, "einheit": "EL"},
+    {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"},
+    {"zutat": "Zwiebel", "menge": 0.5, "einheit": "Stk"}
+  ]
+}

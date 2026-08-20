@@ -3,21 +3,27 @@
   "tags": [
     "MealPrep (TK)"
   ],
-  "zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Suppengrün klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren (Nudeln 10–12 Min. kochen).",
+  "zubereitung": "Möhren, Staudensellerie, Zwiebel und Knoblauch fein würfeln und in Öl als Sofrito andünsten, bis sie weich und leicht golden sind. Tomatenmark einrühren und kurz mitrösten, bis sich der Duft entfaltet. Mit Rotwein ablöschen und fast vollständig einkochen lassen. Rote Linsen, stückige Tomaten und Gemüsebrühe zugeben, Lorbeerblatt, Oregano und ein Stück Parmesanrinde einrühren. Zugedeckt ca. 20–25 Min. köcheln lassen, gelegentlich umrühren und bei Bedarf etwas Brühe nachgießen. Lorbeerblatt und Parmesanrinde entfernen, Sahne und Butter einrühren, bis die Sauce sämig glänzt, und mit Salz und Pfeffer abschmecken. Walnüsse unterheben oder zum Servieren darüberstreuen. Portionsweise einfrieren (bewusst etwas dünner einfrieren, da die Sauce beim Auftauen und Erhitzen weiter andickt). Zum Servieren Vollkornnudeln 10–12 Min. kochen, mit der aufgetauten und erhitzten Sauce vermengen und mit Parmesan bestreuen.",
 
   "naehrwerte": {
-    "kalorien_kcal": 960,
-    "fett_g": 18,
-    "kohlenhydrate_g": 120,
+    "kalorien_kcal": 1175,
+    "fett_g": 30,
+    "kohlenhydrate_g": 140,
     "proteine_g": 50
   },
   "zutaten": [
     {"zutat": "Rote Linsen", "menge": 120, "einheit": "g"},
     {"zutat": "Vollkornnudeln", "menge": 100, "einheit": "g"},
-    {"zutat": "Suppengrün", "menge": 200, "einheit": "g"},
-    {"zutat": "Zwiebel", "menge": 1, "einheit": "Stk"},
-    {"zutat": "Knoblauch", "menge": 2, "einheit": "Stk"},
+    {"zutat": "Möhren", "menge": 50, "einheit": "g"},
+    {"zutat": "Staudensellerie", "menge": 38, "einheit": "g"},
+    {"zutat": "Zwiebel", "menge": 0.5, "einheit": "Stk"},
+    {"zutat": "Knoblauch", "menge": 1.5, "einheit": "Stk"},
+    {"zutat": "Tomatenmark", "menge": 1, "einheit": "EL"},
+    {"zutat": "Rotwein", "menge": 40, "einheit": "ml"},
     {"zutat": "Tomaten (stückig)", "menge": 400, "einheit": "g"},
-    {"zutat": "Tomatenmark", "menge": 2, "einheit": "EL"}
+    {"zutat": "Gemüsebrühe", "menge": 100, "einheit": "ml"},
+    {"zutat": "Parmesan", "menge": 15, "einheit": "g"},
+    {"zutat": "Sahne", "menge": 1, "einheit": "EL"},
+    {"zutat": "Walnüsse", "menge": 15, "einheit": "g"}
   ]
 }
