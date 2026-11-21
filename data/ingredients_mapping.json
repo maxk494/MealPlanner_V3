@@ -21,6 +21,7 @@
   "Fleischersatz": [
     "Tofu",
     "Räuchertofu",
+    "Hack (vegetarisch)",
     "Tempeh",
     "Falafel",
     "Haloumi"
@@ -149,7 +150,8 @@
     "Staudensellerie",
     "Koriander",
     "Hokkaido-Kürbis",
-    "Dill"
+    "Dill",
+    "Ingwer"
   ],
   "Tiefkühlprodukte": [
     "Spinat (TK)",
@@ -157,7 +159,8 @@
     "Erbsen (TK)",
     "Grünkohl (TK)",
     "Edamame (TK)",
-    "Blattspinat (TK)"
+    "Blattspinat (TK)",
+    "Garnelen (TK)"
   ],
   "Sonstiges": [
     "Proteinpulver"

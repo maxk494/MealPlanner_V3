@@ -23,7 +23,6 @@
     {"zutat": "Tomaten (stückig)", "menge": 400, "einheit": "g"},
     {"zutat": "Gemüsebrühe", "menge": 100, "einheit": "ml"},
     {"zutat": "Parmesan", "menge": 15, "einheit": "g"},
-    {"zutat": "Sahne", "menge": 1, "einheit": "EL"},
     {"zutat": "Walnüsse", "menge": 15, "einheit": "g"}
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "rezeptname": "Hähnchen-Erdnuss-Curry",
+  "tags": ["MealPrep (TK)"],
+  "zubereitung": "Vollkornreis in Salzwasser 25–30 Minuten kochen. Erdnüsse ohne Fett 3–4 Minuten anrösten, abkühlen lassen und grob hacken. Hähnchenbrust trocken tupfen und in Streifen schneiden. Kaffir-Limettenblätter von den Blattrippen befreien und in feine Streifen schneiden, Chili entkernt in Ringe, Paprika in feine Streifen schneiden. Die Kokosmilchdose nicht schütteln, die feste Kokossahne abheben und in einer Pfanne erhitzen. Currypaste darin 1 Minute anrösten, Hähnchen zugeben und 2–3 Minuten braten. Restliche Kokosmilch, Fischsauce und Zucker einrühren und 5 Minuten köcheln lassen. Erdnüsse, Paprika, Chili und Limettenblätter zugeben und 1–2 Minuten weiterköcheln. Mit dem Reis servieren.",
+  "naehrwerte": {
+    "kalorien_kcal": 800,
+    "fett_g": 34,
+    "kohlenhydrate_g": 83,
+    "proteine_g": 41
+  },
+  "zutaten": [
+    { "zutat": "Hähnchenbrust", "menge": 100, "einheit": "g" },
+    { "zutat": "Erdnüsse", "menge": 25, "einheit": "g" },
+    { "zutat": "Paprika", "menge": 0.25, "einheit": "Stk" },
+    { "zutat": "Kokosmilch", "menge": 100, "einheit": "ml" },
+    { "zutat": "Rote Currypaste", "menge": 1.5, "einheit": "TL" },
+    { "zutat": "Vollkornreis", "menge": 90, "einheit": "g" }
+  ]
+}

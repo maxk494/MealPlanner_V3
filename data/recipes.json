@@ -105,7 +105,7 @@
     ]
   },
   {
-    "rezeptname": "Bowl_Kimchi_Bibimbap",
+    "rezeptname": "Bowl Kimchi Bibimbap",
     "tags": [
       "Daily"
     ],
@@ -287,6 +287,71 @@
         "zutat": "Zitronensaft",
         "menge": 1,
         "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Gefüllte Süßkartoffel mit Hack, schwarzen Bohnen und Avocado",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Ofen auf 200 °C Umluft vorheizen. Süßkartoffel mit Schale längs halbieren, Schnittflächen mit Olivenöl bestreichen und mit der Schnittseite nach unten auf einem Blech mit Backpapier 35–40 Minuten backen, bis sie weich ist. Tomaten und Zwiebel fein würfeln, mit Limettensaft, Salz und gehacktem Koriander mischen und ziehen lassen. Hack in Olivenöl 5–6 Minuten krümelig anbraten. Knoblauch, Tomatenmark, Paprikapulver und Kreuzkümmel zugeben und 1 Minute mitrösten. Schwarze Bohnen und 50 ml Wasser zugeben und 3–4 Minuten köcheln lassen, mit Salz und Pfeffer abschmecken. Kürbiskerne ohne Fett 2–3 Minuten rösten. Avocado würfeln. Süßkartoffelhälften mit einer Gabel leicht aufdrücken und mit Hack-Bohnen-Mischung, Salsa, Avocado und Joghurt belegen, Kürbiskerne darüberstreuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 1100,
+      "fett_g": 48,
+      "kohlenhydrate_g": 112,
+      "proteine_g": 52
+    },
+    "zutaten": [
+      {
+        "zutat": "Süßkartoffel",
+        "menge": 350,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Hack (vegetarisch)",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Schwarze Bohnen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Avocado",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Kürbiskerne",
+        "menge": 15,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Koriander",
+        "menge": 10,
+        "einheit": "g"
       }
     ]
   },
@@ -694,6 +759,51 @@
         "zutat": "Limettensaft",
         "menge": 2,
         "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Hähnchen-Erdnuss-Curry",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Vollkornreis in Salzwasser 25–30 Minuten kochen. Erdnüsse ohne Fett 3–4 Minuten anrösten, abkühlen lassen und grob hacken. Hähnchenbrust trocken tupfen und in Streifen schneiden. Kaffir-Limettenblätter von den Blattrippen befreien und in feine Streifen schneiden, Chili entkernt in Ringe, Paprika in feine Streifen schneiden. Die Kokosmilchdose nicht schütteln, die feste Kokossahne abheben und in einer Pfanne erhitzen. Currypaste darin 1 Minute anrösten, Hähnchen zugeben und 2–3 Minuten braten. Restliche Kokosmilch, Fischsauce und Zucker einrühren und 5 Minuten köcheln lassen. Erdnüsse, Paprika, Chili und Limettenblätter zugeben und 1–2 Minuten weiterköcheln. Mit dem Reis servieren.",
+    "naehrwerte": {
+      "kalorien_kcal": 800,
+      "fett_g": 34,
+      "kohlenhydrate_g": 83,
+      "proteine_g": 41
+    },
+    "zutaten": [
+      {
+        "zutat": "Hähnchenbrust",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Erdnüsse",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 0.25,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Kokosmilch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Rote Currypaste",
+        "menge": 1.5,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Vollkornreis",
+        "menge": 90,
+        "einheit": "g"
       }
     ]
   },
@@ -1214,6 +1324,71 @@
     ]
   },
   {
+    "rezeptname": "Thai-Nudeln (pikant) mit Garnelen",
+    "tags": [
+      "Fine Dining"
+    ],
+    "zubereitung": "Rigatoni in Salzwasser 10–12 Minuten bissfest kochen und abgießen. Garnelen mit Sojasauce, Pfeffer und der Hälfte des Sambal Oelek marinieren. Zwiebel würfeln, Paprika in Streifen schneiden, Knoblauch und Ingwer fein hacken. Garnelen in Olivenöl bei hoher Hitze je 1–2 Minuten pro Seite braten und herausnehmen. Zwiebel und Paprika 4–5 Minuten anbraten, Knoblauch und Ingwer 1 Minute mitbraten, Tomatenmark 1 Minute anrösten. Mit stückigen Tomaten ablöschen, restliches Sambal Oelek und Sweet-Chili-Sauce zugeben und 8–10 Minuten einkochen lassen. Sahne einrühren und 2 Minuten köcheln lassen, mit Salz, Pfeffer und Limettensaft abschmecken. Rigatoni und Garnelen 1 Minute in der Sauce erhitzen, mit Parmesan und Basilikum servieren.",
+    "naehrwerte": {
+      "kalorien_kcal": 1050,
+      "fett_g": 45,
+      "kohlenhydrate_g": 95,
+      "proteine_g": 55
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 110,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Garnelen (TK)",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten (stückig)",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Sahne",
+        "menge": 80,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Ingwer",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Linsenbolognese",
     "tags": [
       "MealPrep (TK)"
@@ -1280,11 +1455,6 @@
         "zutat": "Parmesan",
         "menge": 15,
         "einheit": "g"
-      },
-      {
-        "zutat": "Sahne",
-        "menge": 1,
-        "einheit": "EL"
       },
       {
         "zutat": "Walnüsse",

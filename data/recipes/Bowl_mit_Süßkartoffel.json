@@ -1,0 +1,23 @@
+{
+  "rezeptname": "Gefüllte Süßkartoffel mit Hack, schwarzen Bohnen und Avocado",
+  "tags": ["Daily"],
+  "zubereitung": "Ofen auf 200 °C Umluft vorheizen. Süßkartoffel mit Schale längs halbieren, Schnittflächen mit Olivenöl bestreichen und mit der Schnittseite nach unten auf einem Blech mit Backpapier 35–40 Minuten backen, bis sie weich ist. Tomaten und Zwiebel fein würfeln, mit Limettensaft, Salz und gehacktem Koriander mischen und ziehen lassen. Hack in Olivenöl 5–6 Minuten krümelig anbraten. Knoblauch, Tomatenmark, Paprikapulver und Kreuzkümmel zugeben und 1 Minute mitrösten. Schwarze Bohnen und 50 ml Wasser zugeben und 3–4 Minuten köcheln lassen, mit Salz und Pfeffer abschmecken. Kürbiskerne ohne Fett 2–3 Minuten rösten. Avocado würfeln. Süßkartoffelhälften mit einer Gabel leicht aufdrücken und mit Hack-Bohnen-Mischung, Salsa, Avocado und Joghurt belegen, Kürbiskerne darüberstreuen.",
+  "naehrwerte": {
+    "kalorien_kcal": 1100,
+    "fett_g": 48,
+    "kohlenhydrate_g": 112,
+    "proteine_g": 52
+  },
+  "zutaten": [
+    { "zutat": "Süßkartoffel", "menge": 350, "einheit": "g" },
+    { "zutat": "Hack (vegetarisch)", "menge": 150, "einheit": "g" },
+    { "zutat": "Schwarze Bohnen", "menge": 100, "einheit": "g" },
+    { "zutat": "Avocado", "menge": 0.5, "einheit": "Stk" },
+    { "zutat": "Tomaten", "menge": 120, "einheit": "g" },
+    { "zutat": "Zwiebel", "menge": 0.5, "einheit": "Stk" },
+    { "zutat": "Griechischer Joghurt", "menge": 3, "einheit": "EL" },
+    { "zutat": "Kürbiskerne", "menge": 15, "einheit": "g" },
+    { "zutat": "Knoblauch", "menge": 1, "einheit": "Stk" },
+    { "zutat": "Koriander", "menge": 10, "einheit": "g" }
+  ]
+}

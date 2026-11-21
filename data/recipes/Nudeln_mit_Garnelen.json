@@ -1,0 +1,23 @@
+{
+  "rezeptname": "Thai-Nudeln (pikant) mit Garnelen",
+  "tags": ["Fine Dining"],
+  "zubereitung": "Rigatoni in Salzwasser 10–12 Minuten bissfest kochen und abgießen. Garnelen mit Sojasauce, Pfeffer und der Hälfte des Sambal Oelek marinieren. Zwiebel würfeln, Paprika in Streifen schneiden, Knoblauch und Ingwer fein hacken. Garnelen in Olivenöl bei hoher Hitze je 1–2 Minuten pro Seite braten und herausnehmen. Zwiebel und Paprika 4–5 Minuten anbraten, Knoblauch und Ingwer 1 Minute mitbraten, Tomatenmark 1 Minute anrösten. Mit stückigen Tomaten ablöschen, restliches Sambal Oelek und Sweet-Chili-Sauce zugeben und 8–10 Minuten einkochen lassen. Sahne einrühren und 2 Minuten köcheln lassen, mit Salz, Pfeffer und Limettensaft abschmecken. Rigatoni und Garnelen 1 Minute in der Sauce erhitzen, mit Parmesan und Basilikum servieren.",
+  "naehrwerte": {
+    "kalorien_kcal": 1050,
+    "fett_g": 45,
+    "kohlenhydrate_g": 95,
+    "proteine_g": 55
+  },
+  "zutaten": [
+    { "zutat": "Vollkornnudeln", "menge": 110, "einheit": "g" },
+    { "zutat": "Garnelen (TK)", "menge": 150, "einheit": "g" },
+    { "zutat": "Tomaten (stückig)", "menge": 200, "einheit": "g" },
+    { "zutat": "Tomatenmark", "menge": 1, "einheit": "EL" },
+    { "zutat": "Sahne", "menge": 80, "einheit": "ml" },
+    { "zutat": "Paprika", "menge": 1, "einheit": "Stk" },
+    { "zutat": "Zwiebel", "menge": 1, "einheit": "Stk" },
+    { "zutat": "Knoblauch", "menge": 2, "einheit": "Stk" },
+    { "zutat": "Ingwer", "menge": 10, "einheit": "g" },
+    { "zutat": "Parmesan", "menge": 20, "einheit": "g" }
+  ]
+}
