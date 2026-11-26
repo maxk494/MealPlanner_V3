@@ -1,0 +1,55 @@
+{
+    "rezeptname": "Ofen-Frittata mit Kartoffeln, Brokkoli und Feta",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Mengen für eine Portion, für Meal Prep einfach vervielfachen und in einer Auflaufform backen. Ofen auf 180 °C Umluft vorheizen. Kartoffeln in Scheiben schneiden und 8 Minuten in Salzwasser vorkochen, die Brokkoliröschen in den letzten 3 Minuten mitgaren. Zwiebel würfeln und in Olivenöl in einer ofenfesten Pfanne 4 Minuten anbraten, Kartoffeln und Brokkoli zugeben und 3 Minuten mitbraten. Eier mit körnigem Frischkäse, Salz, Pfeffer und Muskat verquirlen, über das Gemüse gießen, Feta und halbierte Tomaten darauf verteilen. Im Ofen 20–25 Minuten backen, bis die Masse gestockt und leicht goldbraun ist. Sonnenblumenkerne in einer trockenen Pfanne 2 Minuten rösten und darüberstreuen. Kalt oder aufgewärmt genießen, im Kühlschrank 3 Tage haltbar.",
+    "naehrwerte": {
+      "kalorien_kcal": 960,
+      "fett_g": 54,
+      "kohlenhydrate_g": 55,
+      "proteine_g": 61
+    },
+    "zutaten": [
+      {
+        "zutat": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sonnenblumenkerne",
+        "menge": 15,
+        "einheit": "g"
+      }
+    ]
+  }

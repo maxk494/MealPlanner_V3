@@ -1,0 +1,65 @@
+{
+    "rezeptname": "Bowl Hähnchen-Gyros mit Reis, Salat und Tzatziki",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Vollkornreis in Salzwasser 25 Minuten kochen. Hähnchenbrust in dünne Streifen schneiden und mit Paprikapulver, Oregano, Knoblauch, Zitronensaft und Olivenöl mindestens 15 Minuten marinieren, gern über Nacht. Streifen in einer heißen Pfanne 6–8 Minuten rundherum braten, bis sie durchgegart sind. Für das Tzatziki die Hälfte der Gurke raspeln und ausdrücken, mit Joghurt, Knoblauch, Dill, Salz und Pfeffer verrühren. Tomaten, restliche Gurke und rote Zwiebel würfeln, mit Oliven, Olivenöl, Zitronensaft und Oregano mischen. Reis, Hähnchen, Salat und Tzatziki in einer Bowl anrichten. Meal Prep: Alle Komponenten getrennt lagern, Hähnchen und Reis im Büro aufwärmen, Salat und Tzatziki kalt dazu. Hält 3 Tage.",
+    "naehrwerte": {
+      "kalorien_kcal": 910,
+      "fett_g": 39,
+      "kohlenhydrate_g": 79,
+      "proteine_g": 56
+    },
+    "zutaten": [
+      {
+        "zutat": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornreis",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 10,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Oliven",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 5,
+        "einheit": "g"
+      }
+    ]
+  }

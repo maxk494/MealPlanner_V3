@@ -1,0 +1,55 @@
+{
+    "rezeptname": "Nudeln mit Hüttenkäse-Sauce, Erbsen und Brokkoli",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Vollkornnudeln in Salzwasser 10–12 Minuten kochen, Brokkoliröschen und Erbsen in den letzten 3 Minuten mitgaren und vor dem Abgießen 100 ml Nudelwasser abschöpfen. Körnigen Frischkäse mit Parmesan, Knoblauch, Zitronensaft, Zitronenabrieb, Basilikum und dem Nudelwasser mit dem Stabmixer cremig pürieren. Mandeln grob hacken und ohne Fett 2–3 Minuten rösten. Abgegossene Nudeln und Gemüse mit der Sauce in den Topf geben und bei niedriger Hitze 1–2 Minuten schwenken, nicht kochen, damit die Sauce nicht ausflockt. Mit Salz, Pfeffer und Olivenöl abschmecken und mit Mandeln bestreuen. Meal Prep: Sauce getrennt aufbewahren und im Büro mit einem Schuss Wasser erwärmen.",
+    "naehrwerte": {
+      "kalorien_kcal": 1000,
+      "fett_g": 41,
+      "kohlenhydrate_g": 92,
+      "proteine_g": 59
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 110,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Erbsen (TK)",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mandeln",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  }

@@ -105,6 +105,71 @@
     ]
   },
   {
+    "rezeptname": "Bowl Hähnchen-Gyros mit Reis, Salat und Tzatziki",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Vollkornreis in Salzwasser 25 Minuten kochen. Hähnchenbrust in dünne Streifen schneiden und mit Paprikapulver, Oregano, Knoblauch, Zitronensaft und Olivenöl mindestens 15 Minuten marinieren, gern über Nacht. Streifen in einer heißen Pfanne 6–8 Minuten rundherum braten, bis sie durchgegart sind. Für das Tzatziki die Hälfte der Gurke raspeln und ausdrücken, mit Joghurt, Knoblauch, Dill, Salz und Pfeffer verrühren. Tomaten, restliche Gurke und rote Zwiebel würfeln, mit Oliven, Olivenöl, Zitronensaft und Oregano mischen. Reis, Hähnchen, Salat und Tzatziki in einer Bowl anrichten. Meal Prep: Alle Komponenten getrennt lagern, Hähnchen und Reis im Büro aufwärmen, Salat und Tzatziki kalt dazu. Hält 3 Tage.",
+    "naehrwerte": {
+      "kalorien_kcal": 910,
+      "fett_g": 39,
+      "kohlenhydrate_g": 79,
+      "proteine_g": 56
+    },
+    "zutaten": [
+      {
+        "zutat": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Vollkornreis",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Griechischer Joghurt",
+        "menge": 10,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Oliven",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 5,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Bowl Kimchi Bibimbap",
     "tags": [
       "Daily"
@@ -287,6 +352,91 @@
         "zutat": "Zitronensaft",
         "menge": 1,
         "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Bowl mit Soba, Hähnchen und Erdnuss-Dressing",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Hähnchenbrust in Streifen schneiden, mit 1 EL Sojasauce marinieren und in Olivenöl 5–6 Minuten durchbraten. Soba in kochendem Wasser 5 Minuten garen (Packungsangabe beachten), kalt abspülen und abtropfen lassen. Edamame 4 Minuten in Salzwasser kochen. Möhre und Gurke in feine Streifen schneiden, Pak Choi in Streifen 2–3 Minuten anbraten. Für das Dressing Erdnussmus mit restlicher Sojasauce, Limettensaft, Honig, Sesamöl, geriebenem Ingwer und 2 EL Wasser glatt rühren. Nudeln, Gemüse, Edamame und Hähnchen mit dem Dressing mischen, mit Sesam und Frühlingszwiebeln bestreuen. Schmeckt lauwarm und kalt; für das Büro Dressing separat mitnehmen und erst vor dem Essen unterheben.",
+    "naehrwerte": {
+      "kalorien_kcal": 940,
+      "fett_g": 34,
+      "kohlenhydrate_g": 94,
+      "proteine_g": 66
+    },
+    "zutaten": [
+      {
+        "zutat": "Soba-Nudeln",
+        "menge": 90,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Hähnchenbrust",
+        "menge": 130,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Edamame (TK)",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Pak Choi",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Frühlingszwiebeln",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Erdnussmus",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sojasauce",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Limettensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Sesamöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Ingwer",
+        "menge": 5,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sesam",
+        "menge": 10,
+        "einheit": "g"
       }
     ]
   },
@@ -913,6 +1063,66 @@
     ]
   },
   {
+    "rezeptname": "Eintopf mit Linsen, Graupen und Wurzelgemüse",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Zwiebel, Möhre, Sellerie und Lauch in kleine Würfel schneiden. Räuchertofu würfeln und in Olivenöl 5–6 Minuten knusprig anbraten, herausnehmen. Gemüse im selben Topf 5 Minuten andünsten, Tomatenmark 1 Minute mitrösten. Linsen, Graupen, Gemüsebrühe und Majoran zugeben, aufkochen und zugedeckt 35 Minuten köcheln lassen, bei Bedarf Wasser nachgießen. Tofu unterheben und 2 Minuten erhitzen, mit Salz, Pfeffer und einem Spritzer Essig abschmecken. Mit Skyr und gehackten Walnüssen servieren. Portionsweise einfrieren; Skyr und Walnüsse erst frisch ergänzen. Der Eintopf dickt beim Aufwärmen nach, daher etwas Wasser zugeben.",
+    "naehrwerte": {
+      "kalorien_kcal": 1020,
+      "fett_g": 32,
+      "kohlenhydrate_g": 111,
+      "proteine_g": 61
+    },
+    "zutaten": [
+      {
+        "zutat": "Tellerlinsen",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Perlgraupen",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Räuchertofu",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Suppengrün",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Gemüsebrühe",
+        "menge": 600,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Skyr",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 15,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Gemüse-Döner",
     "tags": [
       "Daily",
@@ -1144,6 +1354,71 @@
     ]
   },
   {
+    "rezeptname": "Kabeljau mit Wirsing-Kartoffelstampf und Senfsauce",
+    "tags": [
+      "Fine Dining"
+    ],
+    "zubereitung": "Kartoffeln schälen, würfeln und in Salzwasser 15 Minuten kochen. Wirsing in feine Streifen schneiden und nach 10 Minuten zu den Kartoffeln geben. Haselnüsse ohne Fett 3 Minuten rösten und grob hacken. Kartoffeln und Wirsing abgießen, mit Butter, Milch und Muskat grob stampfen, mit Salz abschmecken. Kabeljau trocken tupfen, salzen und in Olivenöl bei mittlerer Hitze erst 4 Minuten, gewendet weitere 2–3 Minuten braten, bis er innen glasig-weiß und saftig ist. Für die Sauce Crème fraîche mit Senf und Zitronensaft in einem kleinen Topf 2 Minuten erwärmen. Stampf mit dem Fisch anrichten, Sauce darübergeben und mit Haselnüssen und Dill bestreuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 950,
+      "fett_g": 48,
+      "kohlenhydrate_g": 67,
+      "proteine_g": 58
+    },
+    "zutaten": [
+      {
+        "zutat": "Kabeljau",
+        "menge": 220,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 350,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Wirsing (TK)",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Butter",
+        "menge": 15,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Milch",
+        "menge": 50,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Creme fraiche",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Haselnüsse",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 5,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Lachs mit Süßkartoffeln und Spinat",
     "tags": [
       "Fine Dining"
@@ -1223,8 +1498,8 @@
       },
       {
         "zutat": "Dill",
-        "menge": 1,
-        "einheit": "EL"
+        "menge": 5,
+        "einheit": "g"
       },
       {
         "zutat": "Zitronensaft",
@@ -1320,6 +1595,61 @@
         "zutat": "Kokosmilch",
         "menge": 150,
         "einheit": "ml"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Nudeln mit Hüttenkäse-Sauce, Erbsen und Brokkoli",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Vollkornnudeln in Salzwasser 10–12 Minuten kochen, Brokkoliröschen und Erbsen in den letzten 3 Minuten mitgaren und vor dem Abgießen 100 ml Nudelwasser abschöpfen. Körnigen Frischkäse mit Parmesan, Knoblauch, Zitronensaft, Zitronenabrieb, Basilikum und dem Nudelwasser mit dem Stabmixer cremig pürieren. Mandeln grob hacken und ohne Fett 2–3 Minuten rösten. Abgegossene Nudeln und Gemüse mit der Sauce in den Topf geben und bei niedriger Hitze 1–2 Minuten schwenken, nicht kochen, damit die Sauce nicht ausflockt. Mit Salz, Pfeffer und Olivenöl abschmecken und mit Mandeln bestreuen. Meal Prep: Sauce getrennt aufbewahren und im Büro mit einem Schuss Wasser erwärmen.",
+    "naehrwerte": {
+      "kalorien_kcal": 1000,
+      "fett_g": 41,
+      "kohlenhydrate_g": 92,
+      "proteine_g": 59
+    },
+    "zutaten": [
+      {
+        "zutat": "Vollkornnudeln",
+        "menge": 110,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Parmesan",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Erbsen (TK)",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Mandeln",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Knoblauch",
+        "menge": 1,
+        "einheit": "Stk"
       }
     ]
   },
@@ -1464,6 +1794,61 @@
     ]
   },
   {
+    "rezeptname": "Ofen-Frittata mit Kartoffeln, Brokkoli und Feta",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Mengen für eine Portion, für Meal Prep einfach vervielfachen und in einer Auflaufform backen. Ofen auf 180 °C Umluft vorheizen. Kartoffeln in Scheiben schneiden und 8 Minuten in Salzwasser vorkochen, die Brokkoliröschen in den letzten 3 Minuten mitgaren. Zwiebel würfeln und in Olivenöl in einer ofenfesten Pfanne 4 Minuten anbraten, Kartoffeln und Brokkoli zugeben und 3 Minuten mitbraten. Eier mit körnigem Frischkäse, Salz, Pfeffer und Muskat verquirlen, über das Gemüse gießen, Feta und halbierte Tomaten darauf verteilen. Im Ofen 20–25 Minuten backen, bis die Masse gestockt und leicht goldbraun ist. Sonnenblumenkerne in einer trockenen Pfanne 2 Minuten rösten und darüberstreuen. Kalt oder aufgewärmt genießen, im Kühlschrank 3 Tage haltbar.",
+    "naehrwerte": {
+      "kalorien_kcal": 960,
+      "fett_g": 54,
+      "kohlenhydrate_g": 55,
+      "proteine_g": 61
+    },
+    "zutaten": [
+      {
+        "zutat": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Körniger Frischkäse",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Feta",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomaten",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sonnenblumenkerne",
+        "menge": 15,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
     "rezeptname": "Ofengemüse mit Linsen und Feta",
     "tags": [
       "MealPrep (KS)",
@@ -1510,6 +1895,76 @@
       {
         "zutat": "Feta",
         "menge": 80,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "rezeptname": "Pellkartoffeln mit Leinöl-Quark, Ei und Gurken-Radieschen-Salat",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Kartoffeln ungeschält in Salzwasser 20–25 Minuten garen. Eier in kochendem Wasser 8 Minuten kochen und kalt abschrecken. Magerquark mit Milch, Leinöl, Zitronensaft, Schnittlauch, Dill, Salz und Pfeffer cremig rühren. Gurke und Radieschen dünn hobeln und mit Apfelessig, Salz und Pfeffer anmachen. Walnüsse ohne Fett 2–3 Minuten rösten und grob hacken. Kartoffeln pellen und mit Leinöl-Quark, halbierten Eiern, Salat und Walnüssen anrichten. Leinöl nicht erhitzen und nach dem Öffnen kühl lagern. Kartoffeln und Eier lassen sich 3 Tage vorkochen und kalt im Büro essen.",
+    "naehrwerte": {
+      "kalorien_kcal": 930,
+      "fett_g": 44,
+      "kohlenhydrate_g": 79,
+      "proteine_g": 52
+    },
+    "zutaten": [
+      {
+        "zutat": "Kartoffel",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Magerquark",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Leinöl",
+        "menge": 1.5,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Milch",
+        "menge": 50,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Radieschen",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Apfelessig",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 5,
         "einheit": "g"
       }
     ]

@@ -1,0 +1,70 @@
+{
+    "rezeptname": "Pellkartoffeln mit Leinöl-Quark, Ei und Gurken-Radieschen-Salat",
+    "tags": [
+      "Daily"
+    ],
+    "zubereitung": "Kartoffeln ungeschält in Salzwasser 20–25 Minuten garen. Eier in kochendem Wasser 8 Minuten kochen und kalt abschrecken. Magerquark mit Milch, Leinöl, Zitronensaft, Schnittlauch, Dill, Salz und Pfeffer cremig rühren. Gurke und Radieschen dünn hobeln und mit Apfelessig, Salz und Pfeffer anmachen. Walnüsse ohne Fett 2–3 Minuten rösten und grob hacken. Kartoffeln pellen und mit Leinöl-Quark, halbierten Eiern, Salat und Walnüssen anrichten. Leinöl nicht erhitzen und nach dem Öffnen kühl lagern. Kartoffeln und Eier lassen sich 3 Tage vorkochen und kalt im Büro essen.",
+    "naehrwerte": {
+      "kalorien_kcal": 930,
+      "fett_g": 44,
+      "kohlenhydrate_g": 79,
+      "proteine_g": 52
+    },
+    "zutaten": [
+      {
+        "zutat": "Kartoffel",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Magerquark",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Leinöl",
+        "menge": 1.5,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Milch",
+        "menge": 50,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Radieschen",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 25,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Apfelessig",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 5,
+        "einheit": "g"
+      }
+    ]
+  }

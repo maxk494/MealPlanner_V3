@@ -16,7 +16,7 @@
     {"zutat": "Rote Bete", "menge": 100, "einheit": "g"},
     {"zutat": "Apfel", "menge": 1, "einheit": "Stk"},
     {"zutat": "Griechischer Joghurt", "menge": 3, "einheit": "EL"},
-    {"zutat": "Dill", "menge": 1, "einheit": "EL"},
+    {"zutat": "Dill", "menge": 5, "einheit": "g"},
     {"zutat": "Zitronensaft", "menge": 1, "einheit": "EL"},
     {"zutat": "Zwiebel", "menge": 0.5, "einheit": "Stk"}
   ]

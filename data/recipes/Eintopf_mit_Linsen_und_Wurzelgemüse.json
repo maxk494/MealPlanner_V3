@@ -1,0 +1,60 @@
+  {
+    "rezeptname": "Eintopf mit Linsen, Graupen und Wurzelgemüse",
+    "tags": [
+      "MealPrep (TK)"
+    ],
+    "zubereitung": "Zwiebel, Möhre, Sellerie und Lauch in kleine Würfel schneiden. Räuchertofu würfeln und in Olivenöl 5–6 Minuten knusprig anbraten, herausnehmen. Gemüse im selben Topf 5 Minuten andünsten, Tomatenmark 1 Minute mitrösten. Linsen, Graupen, Gemüsebrühe und Majoran zugeben, aufkochen und zugedeckt 35 Minuten köcheln lassen, bei Bedarf Wasser nachgießen. Tofu unterheben und 2 Minuten erhitzen, mit Salz, Pfeffer und einem Spritzer Essig abschmecken. Mit Skyr und gehackten Walnüssen servieren. Portionsweise einfrieren; Skyr und Walnüsse erst frisch ergänzen. Der Eintopf dickt beim Aufwärmen nach, daher etwas Wasser zugeben.",
+    "naehrwerte": {
+      "kalorien_kcal": 1020,
+      "fett_g": 32,
+      "kohlenhydrate_g": 111,
+      "proteine_g": 61
+    },
+    "zutaten": [
+      {
+        "zutat": "Tellerlinsen",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Perlgraupen",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Räuchertofu",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Suppengrün",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "zutat": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Gemüsebrühe",
+        "menge": 600,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Skyr",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Walnüsse",
+        "menge": 15,
+        "einheit": "g"
+      }
+    ]
+  }

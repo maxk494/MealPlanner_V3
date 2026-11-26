@@ -1,0 +1,85 @@
+{
+    "rezeptname": "Bowl mit Soba, Hähnchen und Erdnuss-Dressing",
+    "tags": [
+      "MealPrep (KS)"
+    ],
+    "zubereitung": "Hähnchenbrust in Streifen schneiden, mit 1 EL Sojasauce marinieren und in Olivenöl 5–6 Minuten durchbraten. Soba in kochendem Wasser 5 Minuten garen (Packungsangabe beachten), kalt abspülen und abtropfen lassen. Edamame 4 Minuten in Salzwasser kochen. Möhre und Gurke in feine Streifen schneiden, Pak Choi in Streifen 2–3 Minuten anbraten. Für das Dressing Erdnussmus mit restlicher Sojasauce, Limettensaft, Honig, Sesamöl, geriebenem Ingwer und 2 EL Wasser glatt rühren. Nudeln, Gemüse, Edamame und Hähnchen mit dem Dressing mischen, mit Sesam und Frühlingszwiebeln bestreuen. Schmeckt lauwarm und kalt; für das Büro Dressing separat mitnehmen und erst vor dem Essen unterheben.",
+    "naehrwerte": {
+      "kalorien_kcal": 940,
+      "fett_g": 34,
+      "kohlenhydrate_g": 94,
+      "proteine_g": 66
+    },
+    "zutaten": [
+      {
+        "zutat": "Soba-Nudeln",
+        "menge": 90,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Hähnchenbrust",
+        "menge": 130,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Edamame (TK)",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Möhren",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Gurke",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Pak Choi",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Frühlingszwiebeln",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Erdnussmus",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sojasauce",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Limettensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Sesamöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Ingwer",
+        "menge": 5,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Sesam",
+        "menge": 10,
+        "einheit": "g"
+      }
+    ]
+  }

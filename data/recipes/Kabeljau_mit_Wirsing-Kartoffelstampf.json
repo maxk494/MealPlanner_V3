@@ -1,0 +1,65 @@
+{
+    "rezeptname": "Kabeljau mit Wirsing-Kartoffelstampf und Senfsauce",
+    "tags": [
+      "Fine Dining"
+    ],
+    "zubereitung": "Kartoffeln schälen, würfeln und in Salzwasser 15 Minuten kochen. Wirsing in feine Streifen schneiden und nach 10 Minuten zu den Kartoffeln geben. Haselnüsse ohne Fett 3 Minuten rösten und grob hacken. Kartoffeln und Wirsing abgießen, mit Butter, Milch und Muskat grob stampfen, mit Salz abschmecken. Kabeljau trocken tupfen, salzen und in Olivenöl bei mittlerer Hitze erst 4 Minuten, gewendet weitere 2–3 Minuten braten, bis er innen glasig-weiß und saftig ist. Für die Sauce Crème fraîche mit Senf und Zitronensaft in einem kleinen Topf 2 Minuten erwärmen. Stampf mit dem Fisch anrichten, Sauce darübergeben und mit Haselnüssen und Dill bestreuen.",
+    "naehrwerte": {
+      "kalorien_kcal": 950,
+      "fett_g": 48,
+      "kohlenhydrate_g": 67,
+      "proteine_g": 58
+    },
+    "zutaten": [
+      {
+        "zutat": "Kabeljau",
+        "menge": 220,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Kartoffel",
+        "menge": 350,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Wirsing (TK)",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Butter",
+        "menge": 15,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Milch",
+        "menge": 50,
+        "einheit": "ml"
+      },
+      {
+        "zutat": "Creme fraiche",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "zutat": "Haselnüsse",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "zutat": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "zutat": "Dill",
+        "menge": 5,
+        "einheit": "g"
+      }
+    ]
+  }

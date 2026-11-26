@@ -12,7 +12,8 @@
     "Räucherlachs",
     "Räucherhering",
     "Matjes",
-    "Matjes Hausfrauenart"
+    "Matjes Hausfrauenart",
+    "Kabeljau"
   ],
   "Fleisch": [
     "Hähnchenbrust",
@@ -41,7 +42,9 @@
     "Bulgur",
     "Rote-Linsen Nudeln",
     "Buchweizen",
-    "Soba-Nudeln"
+    "Soba-Nudeln",
+    "Perlgraupen",
+    "Tellerlinsen"
   ],
   "Konserven": [
     "Kichererbsen",
@@ -94,7 +97,9 @@
     "Pinienkerne",
     "Chiasamen",
     "Kürbiskerne",
-    "Mandeln"
+    "Mandeln",
+    "Haselnüsse",
+    "Sonnenblumenkerne"
   ],
   "Öle & Würzmittel": [
     "Sesamöl",
@@ -112,7 +117,9 @@
     "Balsamico",
     "Senf",
     "Pesto",
-    "Rotwein"
+    "Rotwein",
+    "Apfelessig",
+    "Leinöl"
   ],
   "Obst & Gemüse": [
     "Avocado",
@@ -151,7 +158,9 @@
     "Koriander",
     "Hokkaido-Kürbis",
     "Dill",
-    "Ingwer"
+    "Ingwer",
+    "Pak Choi",
+    "Radieschen"
   ],
   "Tiefkühlprodukte": [
     "Spinat (TK)",
@@ -160,7 +169,8 @@
     "Grünkohl (TK)",
     "Edamame (TK)",
     "Blattspinat (TK)",
-    "Garnelen (TK)"
+    "Garnelen (TK)",
+    "Wirsing (TK)"
   ],
   "Sonstiges": [
     "Proteinpulver"
